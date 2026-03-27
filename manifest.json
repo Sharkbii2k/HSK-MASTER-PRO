@@ -1,0 +1,15 @@
+{
+  "name": "HSK Master Pro",
+  "short_name": "HSK Master Pro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#f7f9ff",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}

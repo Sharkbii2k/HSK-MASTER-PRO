@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>HSK Master Pro</title>
+  <meta name="theme-color" content="#f7f9ff" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="assets/app-icon.png" />
+  <link rel="apple-touch-icon" href="assets/app-icon.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="intro" class="intro-screen">
+    <div class="intro-card">
+      <img src="assets/mascot-head.png" alt="Mascot" class="intro-mascot" />
+      <h1>HSK Master Pro</h1>
+      <p>Gwang Ji 광 지 Learning Chinese</p>
+      <div class="intro-progress-track">
+        <div id="introProgress" class="intro-progress-bar"></div>
+      </div>
+      <div id="introPercent" class="intro-percent">0%</div>
+    </div>
+  </div>
+
+  <div id="drawerBackdrop" class="drawer-backdrop hidden"></div>
+  <aside id="drawer" class="drawer closed">
+    <div class="drawer-header">
+      <img src="assets/mascot-head.png" alt="Mascot" class="drawer-avatar" />
+      <div>
+        <div class="drawer-title">HSK Master Pro</div>
+        <div class="drawer-subtitle">Gwang Ji 광 지 Learning Chinese</div>
+      </div>
+    </div>
+    <nav class="drawer-nav">
+      <button class="drawer-link active" data-screen="home">Trang chủ</button>
+      <button class="drawer-link" data-screen="vocabulary">Từ vựng</button>
+      <button class="drawer-link" data-screen="speaking">Nói</button>
+      <button class="drawer-link" data-screen="reading">Đọc</button>
+      <button class="drawer-link" data-screen="writing">Viết</button>
+    </nav>
+  </aside>
+
+  <div id="app" class="app-shell hidden">
+    <header class="topbar">
+      <button id="menuButton" class="menu-button" aria-label="Mở menu">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="brand-center">
+        <img src="assets/mascot-head.png" alt="Mascot" class="brand-avatar" />
+        <div>
+          <div class="brand-title">HSK Master Pro</div>
+          <div class="brand-subtitle">Gwang Ji 광 지 Learning Chinese</div>
+        </div>
+      </div>
+      <div class="topbar-spacer"></div>
+    </header>
+
+    <main class="content-area">
+      <section id="screen-home" class="screen active">
+        <div class="hero-card glass">
+          <img src="assets/mascot-head.png" alt="Mascot" class="hero-avatar" />
+          <div>
+            <div class="hero-title">Chào mừng bạn quay lại</div>
+            <div class="hero-text">Học tiếng Trung theo 4 kỹ năng: Từ vựng, Nói, Đọc, Viết.</div>
+          </div>
+        </div>
+
+        <div class="grid-2 modules-grid">
+          <button class="module-card vocab" data-open-screen="vocabulary">
+            <div class="module-emoji">📚</div>
+            <div class="module-title">Từ vựng</div>
+            <div class="module-desc">Luyện gõ Hán tự theo HSK</div>
+          </button>
+          <button class="module-card speak" data-open-screen="speaking">
+            <div class="module-emoji">🎤</div>
+            <div class="module-title">Nói</div>
+            <div class="module-desc">Shadowing + audio tự phát</div>
+          </button>
+          <button class="module-card read" data-open-screen="reading">
+            <div class="module-emoji">📖</div>
+            <div class="module-title">Đọc</div>
+            <div class="module-desc">Văn bản theo cấp độ HSK</div>
+          </button>
+          <button class="module-card write" data-open-screen="writing">
+            <div class="module-emoji">✍️</div>
+            <div class="module-title">Viết</div>
+            <div class="module-desc">Bộ thủ, nét, thứ tự viết</div>
+          </button>
+        </div>
+
+        <div class="summary-card glass">
+          <div class="summary-title">Tiến độ hôm nay</div>
+          <div class="summary-stats">
+            <div><strong id="statWords">0</strong><span>Từ đã thử</span></div>
+            <div><strong id="statSpeak">0</strong><span>Câu shadowing</span></div>
+            <div><strong id="statRead">0</strong><span>Bài đọc</span></div>
+            <div><strong id="statWrite">0</strong><span>Chữ đã xem</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="screen-vocabulary" class="screen">
+        <div class="section-head">
+          <div>
+            <h2>Luyện Gõ Từ Vựng</h2>
+            <p>Không mất con trỏ, không lỗi IME, có ẩn/hiện Hán tự và Pinyin.</p>
+          </div>
+        </div>
+        <div class="control-card">
+          <label class="field-label">
+            Cấp độ
+            <select id="vocabLevel"></select>
+          </label>
+          <label class="switch-row">
+            <span>Hiện Hán tự</span>
+            <input id="toggleHanzi" type="checkbox" checked />
+          </label>
+          <label class="switch-row">
+            <span>Hiện Pinyin</span>
+            <input id="togglePinyin" type="checkbox" checked />
+          </label>
+        </div>
+        <div class="table-wrap card">
+          <table class="vocab-table">
+            <thead>
+              <tr>
+                <th class="col-stt">STT</th>
+                <th class="col-hanzi">Hán Tự</th>
+                <th class="col-pinyin">Pinyin</th>
+                <th class="col-meaning">Nghĩa Tiếng Việt</th>
+                <th class="col-input">Luyện Gõ Chữ</th>
+                <th class="col-result">Kết Quả</th>
+              </tr>
+            </thead>
+            <tbody id="vocabBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="screen-speaking" class="screen">
+        <div class="section-head">
+          <div>
+            <h2>Luyện Nói Shadowing</h2>
+            <p>Hiện tiếng Việt trước, đếm 3 giây, sau đó hiện Hán tự + Pinyin và audio tự phát.</p>
+          </div>
+        </div>
+        <div class="control-card single-line">
+          <label class="field-label">
+            Cấp độ
+            <select id="speakingLevel"></select>
+          </label>
+        </div>
+        <div class="shadow-card glass">
+          <div class="shadow-label">Tiếng Việt</div>
+          <div id="shadowVietnamese" class="shadow-vietnamese"></div>
+          <div id="shadowCountdown" class="shadow-countdown">3</div>
+          <div id="shadowReveal" class="shadow-reveal hidden">
+            <div id="shadowHanzi" class="shadow-hanzi"></div>
+            <div id="shadowPinyin" class="shadow-pinyin"></div>
+          </div>
+        </div>
+        <div class="nav-row">
+          <button id="speakPrev" class="btn ghost">Câu trước</button>
+          <button id="speakReplay" class="btn soft">Nghe lại</button>
+          <button id="speakNext" class="btn primary">Câu tiếp theo</button>
+        </div>
+      </section>
+
+      <section id="screen-reading" class="screen">
+        <div class="section-head">
+          <div>
+            <h2>Luyện Đọc Văn Bản</h2>
+            <p>Chọn cấp độ, mở bài đọc, xem Hán tự, Pinyin và nghĩa tiếng Việt.</p>
+          </div>
+        </div>
+        <div class="control-card reading-controls">
+          <label class="field-label">
+            Cấp độ
+            <select id="readingLevel"></select>
+          </label>
+          <label class="field-label grow">
+            Bài đọc
+            <select id="readingLesson"></select>
+          </label>
+        </div>
+        <div class="card reading-card">
+          <h3 id="readingTitle"></h3>
+          <div id="readingMeta" class="reading-meta"></div>
+          <div class="reading-block">
+            <div class="reading-label">Hán tự</div>
+            <div id="readingHanzi" class="reading-hanzi"></div>
+          </div>
+          <div class="reading-block">
+            <div class="reading-label">Pinyin</div>
+            <div id="readingPinyin" class="reading-pinyin"></div>
+          </div>
+          <div class="reading-block">
+            <div class="reading-label">Nghĩa tiếng Việt</div>
+            <div id="readingMeaning" class="reading-meaning"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="screen-writing" class="screen">
+        <div class="section-head">
+          <div>
+            <h2>Luyện Viết Cho Người Mới</h2>
+            <p>Hiểu nét cơ bản, bộ thủ, cấu tạo chữ và thứ tự viết trước khi tự luyện.</p>
+          </div>
+        </div>
+        <div class="control-card writing-controls">
+          <label class="field-label">
+            Cấp độ
+            <select id="writingLevel"></select>
+          </label>
+          <label class="field-label grow">
+            Chữ cần học
+            <select id="writingChar"></select>
+          </label>
+        </div>
+        <div class="writing-layout">
+          <div class="card writing-main">
+            <div id="writingBigChar" class="writing-big-char"></div>
+            <div id="writingPinyin" class="writing-pinyin"></div>
+            <div id="writingMeaning" class="writing-meaning"></div>
+            <div class="writing-tags">
+              <span id="writingRadical" class="tag"></span>
+              <span id="writingStrokeCount" class="tag"></span>
+            </div>
+            <p id="writingExplain" class="writing-explain"></p>
+          </div>
+          <div class="card writing-side">
+            <div class="steps-title">Thứ tự nét</div>
+            <ol id="writingSteps" class="steps-list"></ol>
+          </div>
+        </div>
+        <div class="card stroke-card">
+          <div class="steps-title">Nét cơ bản gợi nhớ</div>
+          <div id="strokeBasics" class="stroke-grid"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
