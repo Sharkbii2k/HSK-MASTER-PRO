@@ -1,0 +1,5490 @@
+{
+  "level": "HSK1",
+  "count": 150,
+  "words": [
+    {
+      "order": 1,
+      "level": "HSK1",
+      "hanzi": "爱",
+      "acceptedInputs": [
+        "爱"
+      ],
+      "lookupTerms": [
+        "爱"
+      ],
+      "pinyin": "ài",
+      "meaningVi": "yêu; thích; tình cảm",
+      "meaningViFull": [
+        "yêu; thích",
+        "tình cảm",
+        "có khuynh hướng (làm gì đó); có xu hướng (xảy ra)"
+      ],
+      "meaningEn": "to love; to be fond of; to like; affection",
+      "meaningEnFull": [
+        "to love; to be fond of; to like",
+        "affection",
+        "to be inclined (to do sth); to tend to (happen)"
+      ],
+      "traditional": "愛",
+      "radical": "爫",
+      "frequency": 130,
+      "partOfSpeech": [
+        "v",
+        "vn",
+        "b"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 2,
+      "level": "HSK1",
+      "hanzi": "八",
+      "acceptedInputs": [
+        "八"
+      ],
+      "lookupTerms": [
+        "八"
+      ],
+      "pinyin": "bā",
+      "meaningVi": "tám; 8",
+      "meaningViFull": [
+        "tám; 8"
+      ],
+      "meaningEn": "eight; 8",
+      "meaningEnFull": [
+        "eight; 8"
+      ],
+      "traditional": "八",
+      "radical": "八",
+      "frequency": 1362,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 3,
+      "level": "HSK1",
+      "hanzi": "爸爸",
+      "acceptedInputs": [
+        "爸爸"
+      ],
+      "lookupTerms": [
+        "爸爸"
+      ],
+      "pinyin": "bàba",
+      "meaningVi": "(thông tục) cha; ba",
+      "meaningViFull": [
+        "(thông tục) cha; ba"
+      ],
+      "meaningEn": "(coll.) father; dad",
+      "meaningEnFull": [
+        "(coll.) father; dad"
+      ],
+      "traditional": "爸爸",
+      "radical": "父",
+      "frequency": 908,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 4,
+      "level": "HSK1",
+      "hanzi": "杯子",
+      "acceptedInputs": [
+        "杯子"
+      ],
+      "lookupTerms": [
+        "杯子"
+      ],
+      "pinyin": "bēizi",
+      "meaningVi": "cốc; ly",
+      "meaningViFull": [
+        "cốc",
+        "ly"
+      ],
+      "meaningEn": "cup; glass",
+      "meaningEnFull": [
+        "cup",
+        "glass"
+      ],
+      "traditional": "杯子",
+      "radical": "木",
+      "frequency": 6162,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "只"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 5,
+      "level": "HSK1",
+      "hanzi": "北京",
+      "acceptedInputs": [
+        "北京"
+      ],
+      "lookupTerms": [
+        "北京"
+      ],
+      "pinyin": "Běijīng",
+      "meaningVi": "Bắc Kinh, thủ đô nước Cộng hòa Nhân dân Trung Hoa",
+      "meaningViFull": [
+        "Bắc Kinh, thủ đô nước Cộng hòa Nhân dân Trung Hoa"
+      ],
+      "meaningEn": "Beijing, capital of the People's Republic of China",
+      "meaningEnFull": [
+        "Beijing, capital of the People's Republic of China"
+      ],
+      "traditional": "北京",
+      "radical": "匕",
+      "frequency": 4799,
+      "partOfSpeech": [
+        "ns"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 6,
+      "level": "HSK1",
+      "hanzi": "本",
+      "acceptedInputs": [
+        "本"
+      ],
+      "lookupTerms": [
+        "本"
+      ],
+      "pinyin": "běn",
+      "meaningVi": "(hình thức kết hợp) gốc; rễ; (hình thức kết hợp) nguồn gốc; nguyên nhân",
+      "meaningViFull": [
+        "(hình thức kết hợp) gốc; rễ",
+        "(hình thức kết hợp) nguồn gốc; nguyên nhân",
+        "(hình thức kết hợp) của mình; này",
+        "(hình thức kết hợp) này; hiện tại (năm này, v.v.)",
+        "(hình thức kết hợp) ban đầu",
+        "(hình thức kết hợp) vốn có",
+        "nguyên gốc; ban đầu",
+        "vốn; chính",
+        "lượng từ cho sách, tạp chí, hồ sơ, v.v."
+      ],
+      "meaningEn": "root; stem",
+      "meaningEnFull": [
+        "root",
+        "stem",
+        "origin",
+        "source",
+        "this",
+        "the current",
+        "original",
+        "inherent",
+        "originally",
+        "classifier for books, periodicals, files etc"
+      ],
+      "traditional": "本",
+      "radical": "木",
+      "frequency": 222,
+      "partOfSpeech": [
+        "r",
+        "q",
+        "d",
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 7,
+      "level": "HSK1",
+      "hanzi": "不客气",
+      "acceptedInputs": [
+        "不客气"
+      ],
+      "lookupTerms": [
+        "不客气"
+      ],
+      "pinyin": "bú kèqi",
+      "meaningVi": "không có gì; đừng khách sáo",
+      "meaningViFull": [
+        "không có gì",
+        "đừng khách sáo"
+      ],
+      "meaningEn": "you're welcome; don't mention it",
+      "meaningEnFull": [
+        "you're welcome",
+        "don't mention it",
+        "impolite",
+        "rude",
+        "blunt"
+      ],
+      "traditional": "不客氣",
+      "radical": "一",
+      "frequency": 16723,
+      "partOfSpeech": [],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "custom",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 8,
+      "level": "HSK1",
+      "hanzi": "不",
+      "acceptedInputs": [
+        "不"
+      ],
+      "lookupTerms": [
+        "不"
+      ],
+      "pinyin": "bù",
+      "meaningVi": "không; không phải; (hình thức kết hợp) không; bất-",
+      "meaningViFull": [
+        "không; không phải",
+        "(hình thức kết hợp) không; bất-"
+      ],
+      "meaningEn": "no; not so; (bound form) not; un-",
+      "meaningEnFull": [
+        "no; not so",
+        "(bound form) not; un-"
+      ],
+      "traditional": "不",
+      "radical": "一",
+      "frequency": 9,
+      "partOfSpeech": [
+        "d"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 9,
+      "level": "HSK1",
+      "hanzi": "菜",
+      "acceptedInputs": [
+        "菜"
+      ],
+      "lookupTerms": [
+        "菜"
+      ],
+      "pinyin": "cài",
+      "meaningVi": "rau (LT:棵[ke1]); món ăn (LT:樣|样[yang4],道[dao4],盤|盘[pan2])",
+      "meaningViFull": [
+        "rau (LT:棵[ke1])",
+        "món ăn (LT:樣|样[yang4],道[dao4],盤|盘[pan2])",
+        "(kỹ năng, v.v.) yếu; kém",
+        "(thông tục) mẫu người (mình thích)"
+      ],
+      "meaningEn": "dish (type of food); vegetable",
+      "meaningEnFull": [
+        "dish (type of food)",
+        "vegetable",
+        "cuisine",
+        "(coll.) (one's) type",
+        "(of one's skills etc) weak",
+        "poor"
+      ],
+      "traditional": "菜",
+      "radical": "艹",
+      "frequency": 1448,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "盘",
+        "道"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 10,
+      "level": "HSK1",
+      "hanzi": "茶",
+      "acceptedInputs": [
+        "茶"
+      ],
+      "lookupTerms": [
+        "茶"
+      ],
+      "pinyin": "chá",
+      "meaningVi": "trà; cây trà",
+      "meaningViFull": [
+        "trà",
+        "cây trà"
+      ],
+      "meaningEn": "tea; tea plant",
+      "meaningEnFull": [
+        "tea",
+        "tea plant"
+      ],
+      "traditional": "茶",
+      "radical": "艹",
+      "frequency": 1910,
+      "partOfSpeech": [
+        "n",
+        "g"
+      ],
+      "classifiers": [
+        "杯",
+        "壶"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 11,
+      "level": "HSK1",
+      "hanzi": "吃",
+      "acceptedInputs": [
+        "吃"
+      ],
+      "lookupTerms": [
+        "吃"
+      ],
+      "pinyin": "chī",
+      "meaningVi": "ăn; tiêu thụ; ăn ở (nhà ăn, v.v.)",
+      "meaningViFull": [
+        "ăn; tiêu thụ",
+        "ăn ở (nhà ăn, v.v.)",
+        "tiêu diệt; phá hủy",
+        "hấp thụ",
+        "chịu (cú sốc, chấn thương, thất bại, v.v.)"
+      ],
+      "meaningEn": "to eat; to consume; to eat at (a cafeteria etc)",
+      "meaningEnFull": [
+        "to eat; to consume",
+        "to eat at (a cafeteria etc)",
+        "to eradicate; to destroy",
+        "to absorb",
+        "to suffer (shock, injury, defeat etc)"
+      ],
+      "traditional": "吃",
+      "radical": "口",
+      "frequency": 142,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 12,
+      "level": "HSK1",
+      "hanzi": "出租车",
+      "acceptedInputs": [
+        "出租车"
+      ],
+      "lookupTerms": [
+        "出租车"
+      ],
+      "pinyin": "chūzūchē",
+      "meaningVi": "taxi; xe thuê (Đài Loan)",
+      "meaningViFull": [
+        "taxi",
+        "xe thuê (Đài Loan)"
+      ],
+      "meaningEn": "taxi; (Tw) rental car",
+      "meaningEnFull": [
+        "taxi",
+        "(Tw) rental car"
+      ],
+      "traditional": "出租車",
+      "radical": "凵",
+      "frequency": 2677,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 13,
+      "level": "HSK1",
+      "hanzi": "打电话",
+      "acceptedInputs": [
+        "打电话"
+      ],
+      "lookupTerms": [
+        "打电话"
+      ],
+      "pinyin": "dǎ diànhuà",
+      "meaningVi": "gọi điện thoại",
+      "meaningViFull": [
+        "gọi điện thoại"
+      ],
+      "meaningEn": "to make a telephone call",
+      "meaningEnFull": [
+        "to make a telephone call"
+      ],
+      "traditional": "打電話",
+      "radical": "扌",
+      "frequency": 1218,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 14,
+      "level": "HSK1",
+      "hanzi": "大",
+      "acceptedInputs": [
+        "大"
+      ],
+      "lookupTerms": [
+        "大"
+      ],
+      "pinyin": "dà",
+      "meaningVi": "to; lớn; vĩ đại; lớn tuổi hơn",
+      "meaningViFull": [
+        "to; lớn; vĩ đại",
+        "lớn tuổi hơn",
+        "người lớn nhất (như trong 大姐[da4 jie3])",
+        "rất; thoải mái; hoàn toàn",
+        "(phương ngữ) cha",
+        "(phương ngữ) chú (anh em của cha)"
+      ],
+      "meaningEn": "big; large; great; older (than another person)",
+      "meaningEnFull": [
+        "big; large; great",
+        "older (than another person)",
+        "eldest (as in 姐)",
+        "greatly; freely; fully",
+        "(dialect) father",
+        "(dialect) uncle (father's brother)"
+      ],
+      "traditional": "大",
+      "radical": "大",
+      "frequency": 66,
+      "partOfSpeech": [
+        "a",
+        "d",
+        "n",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 15,
+      "level": "HSK1",
+      "hanzi": "的",
+      "acceptedInputs": [
+        "的"
+      ],
+      "lookupTerms": [
+        "的"
+      ],
+      "pinyin": "de",
+      "meaningVi": "của; ~(hậu tố sở hữu); (dùng sau định ngữ)",
+      "meaningViFull": [
+        "của; ~(hậu tố sở hữu)",
+        "(dùng sau định ngữ)",
+        "(dùng để tạo thành cụm danh từ)",
+        "(dùng cuối câu trần thuật để nhấn mạnh)",
+        "cũng đọc là [di4] hoặc [di5] trong thơ và bài hát"
+      ],
+      "meaningEn": "of; ~'s (possessive particle); (used after an attribute)",
+      "meaningEnFull": [
+        "of; ~'s (possessive particle)",
+        "(used after an attribute)",
+        "(used to form a nominal expression)",
+        "(used at the end of a declarative sentence for emphasis)",
+        "also pr. [dì] or [di] in poetry and songs"
+      ],
+      "traditional": "的",
+      "radical": "白",
+      "frequency": 1,
+      "partOfSpeech": [
+        "u",
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 16,
+      "level": "HSK1",
+      "hanzi": "点",
+      "acceptedInputs": [
+        "点"
+      ],
+      "lookupTerms": [
+        "点"
+      ],
+      "pinyin": "diǎn",
+      "meaningVi": "điểm; chấm",
+      "meaningViFull": [
+        "điểm",
+        "chấm",
+        "giọt",
+        "vết",
+        "chấm giờ",
+        "điểm (trong không gian hoặc thời gian)",
+        "vẽ một chấm",
+        "kiểm tra danh sách",
+        "chọn",
+        "gọi món (trong nhà hàng)",
+        "chạm nhẹ",
+        "gợi ý",
+        "thắp",
+        "làm sáng",
+        "rót chất lỏng từng giọt",
+        "(cũ) một phần năm của một canh hai giờ 更[geng1]",
+        "nét chấm trong chữ Hán",
+        "lượng từ cho mục"
+      ],
+      "meaningEn": "point; dot",
+      "meaningEnFull": [
+        "point",
+        "dot",
+        "drop",
+        "speck",
+        "o'clock",
+        "point (in space or time)",
+        "to draw a dot",
+        "to check on a list",
+        "to choose",
+        "to order (food in a restaurant)",
+        "to touch briefly",
+        "to hint",
+        "to light",
+        "to ignite",
+        "to pour a liquid drop by drop",
+        "(old) one fifth of a two-hour watch 更",
+        "dot stroke in Chinese characters",
+        "classifier for items"
+      ],
+      "traditional": "點",
+      "radical": "灬",
+      "frequency": 58,
+      "partOfSpeech": [
+        "qt",
+        "n",
+        "t",
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 17,
+      "level": "HSK1",
+      "hanzi": "电脑",
+      "acceptedInputs": [
+        "电脑"
+      ],
+      "lookupTerms": [
+        "电脑"
+      ],
+      "pinyin": "diànnǎo",
+      "meaningVi": "máy tính",
+      "meaningViFull": [
+        "máy tính"
+      ],
+      "meaningEn": "computer",
+      "meaningEnFull": [
+        "computer"
+      ],
+      "traditional": "電腦",
+      "radical": "曰",
+      "frequency": 946,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "台"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 18,
+      "level": "HSK1",
+      "hanzi": "电视",
+      "acceptedInputs": [
+        "电视"
+      ],
+      "lookupTerms": [
+        "电视"
+      ],
+      "pinyin": "diànshì",
+      "meaningVi": "truyền hình; TV",
+      "meaningViFull": [
+        "truyền hình; TV"
+      ],
+      "meaningEn": "television; TV",
+      "meaningEnFull": [
+        "television; TV"
+      ],
+      "traditional": "電視",
+      "radical": "曰",
+      "frequency": 779,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "台",
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 19,
+      "level": "HSK1",
+      "hanzi": "电影",
+      "acceptedInputs": [
+        "电影"
+      ],
+      "lookupTerms": [
+        "电影"
+      ],
+      "pinyin": "diànyǐng",
+      "meaningVi": "phim; điện ảnh",
+      "meaningViFull": [
+        "phim; điện ảnh"
+      ],
+      "meaningEn": "movie; film",
+      "meaningEnFull": [
+        "movie; film"
+      ],
+      "traditional": "電影",
+      "radical": "曰",
+      "frequency": 546,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "部",
+        "片",
+        "幕",
+        "场"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 20,
+      "level": "HSK1",
+      "hanzi": "东西",
+      "acceptedInputs": [
+        "东西"
+      ],
+      "lookupTerms": [
+        "东西"
+      ],
+      "pinyin": "dōngxi",
+      "meaningVi": "đồ vật; thứ",
+      "meaningViFull": [
+        "đồ vật",
+        "thứ",
+        "người",
+        "lượng từ: 個|个[ge4], 件[jian4]"
+      ],
+      "meaningEn": "thing; stuff",
+      "meaningEnFull": [
+        "thing",
+        "stuff",
+        "person"
+      ],
+      "traditional": "東西",
+      "radical": "一",
+      "frequency": 226,
+      "partOfSpeech": [
+        "n",
+        "f",
+        "nr"
+      ],
+      "classifiers": [
+        "个",
+        "件"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 21,
+      "level": "HSK1",
+      "hanzi": "都",
+      "acceptedInputs": [
+        "都"
+      ],
+      "lookupTerms": [
+        "都"
+      ],
+      "pinyin": "dōu",
+      "meaningVi": "tất cả; cả hai; hoàn toàn; (dùng để nhấn mạnh) thậm chí",
+      "meaningViFull": [
+        "tất cả; cả hai; hoàn toàn",
+        "(dùng để nhấn mạnh) thậm chí",
+        "đã",
+        "(không) chút nào"
+      ],
+      "meaningEn": "all; both; entirely; (used for emphasis) even",
+      "meaningEnFull": [
+        "all; both; entirely",
+        "(used for emphasis) even",
+        "already",
+        "(not) at all"
+      ],
+      "traditional": "都",
+      "radical": "阝",
+      "frequency": 25,
+      "partOfSpeech": [
+        "d",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 22,
+      "level": "HSK1",
+      "hanzi": "读",
+      "acceptedInputs": [
+        "读"
+      ],
+      "lookupTerms": [
+        "读"
+      ],
+      "pinyin": "dú",
+      "meaningVi": "đọc ra; đọc to; đọc",
+      "meaningViFull": [
+        "đọc ra; đọc to",
+        "đọc",
+        "theo học (trường); học (một môn ở trường)",
+        "phát âm"
+      ],
+      "meaningEn": "to read out; to read aloud; to read",
+      "meaningEnFull": [
+        "to read out; to read aloud",
+        "to read",
+        "to attend (school); to study (a subject in school)",
+        "to pronounce"
+      ],
+      "traditional": "讀",
+      "radical": "讠",
+      "frequency": 1013,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 23,
+      "level": "HSK1",
+      "hanzi": "对不起",
+      "acceptedInputs": [
+        "对不起"
+      ],
+      "lookupTerms": [
+        "对不起"
+      ],
+      "pinyin": "duìbuqǐ",
+      "meaningVi": "Tôi xin lỗi; xin thứ lỗi; tôi xin tha thứ; làm (ai đó) thất vọng; không đạt kỳ vọng",
+      "meaningViFull": [
+        "Tôi xin lỗi; xin thứ lỗi; tôi xin tha thứ",
+        "làm (ai đó) thất vọng; không đạt kỳ vọng"
+      ],
+      "meaningEn": "I'm sorry; excuse me; I beg your pardon; to let (sb) down; to disappoint",
+      "meaningEnFull": [
+        "I'm sorry; excuse me; I beg your pardon",
+        "to let (sb) down; to disappoint"
+      ],
+      "traditional": "對不起",
+      "radical": "寸",
+      "frequency": 1577,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 24,
+      "level": "HSK1",
+      "hanzi": "多",
+      "acceptedInputs": [
+        "多"
+      ],
+      "lookupTerms": [
+        "多"
+      ],
+      "pinyin": "duō",
+      "meaningVi": "nhiều; quá nhiều; dư thừa",
+      "meaningViFull": [
+        "nhiều",
+        "quá nhiều; dư thừa",
+        "(sau một số) ... lẻ",
+        "như thế nào (mức độ nào) (cách phát âm ở Đài Loan [duo2])",
+        "(dạng kết hợp) đa-; nhiều-"
+      ],
+      "meaningEn": "many; much; too many; in excess",
+      "meaningEnFull": [
+        "many; much",
+        "too many; in excess",
+        "(after a numeral) ... odd",
+        "how (to what extent) (Taiwan pr. [duó])",
+        "(bound form) multi-; poly-"
+      ],
+      "traditional": "多",
+      "radical": "夕",
+      "frequency": 80,
+      "partOfSpeech": [
+        "a",
+        "m",
+        "ad",
+        "d",
+        "v",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 25,
+      "level": "HSK1",
+      "hanzi": "多少",
+      "acceptedInputs": [
+        "多少"
+      ],
+      "lookupTerms": [
+        "多少"
+      ],
+      "pinyin": "duōshao",
+      "meaningVi": "bao nhiêu?; mấy?; (số điện thoại, mã sinh viên, v.v.) số bao nhiêu?",
+      "meaningViFull": [
+        "bao nhiêu?; mấy?",
+        "(số điện thoại, mã sinh viên, v.v.) số bao nhiêu?"
+      ],
+      "meaningEn": "how much?; how many?",
+      "meaningEnFull": [
+        "how much?",
+        "how many?",
+        "(phone number, student ID etc) what number?"
+      ],
+      "traditional": "多少",
+      "radical": "夕",
+      "frequency": 526,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 26,
+      "level": "HSK1",
+      "hanzi": "儿子",
+      "acceptedInputs": [
+        "儿子"
+      ],
+      "lookupTerms": [
+        "儿子"
+      ],
+      "pinyin": "érzi",
+      "meaningVi": "con trai",
+      "meaningViFull": [
+        "con trai"
+      ],
+      "meaningEn": "son",
+      "meaningEnFull": [
+        "son"
+      ],
+      "traditional": "兒子",
+      "radical": "儿",
+      "frequency": 665,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 27,
+      "level": "HSK1",
+      "hanzi": "二",
+      "acceptedInputs": [
+        "二"
+      ],
+      "lookupTerms": [
+        "二"
+      ],
+      "pinyin": "èr",
+      "meaningVi": "hai; 2",
+      "meaningViFull": [
+        "hai",
+        "2",
+        "(tiếng Bắc Kinh) ngu ngốc"
+      ],
+      "meaningEn": "two; 2",
+      "meaningEnFull": [
+        "two",
+        "2",
+        "(Beijing dialect) stupid"
+      ],
+      "traditional": "二",
+      "radical": "二",
+      "frequency": 664,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 28,
+      "level": "HSK1",
+      "hanzi": "饭馆",
+      "acceptedInputs": [
+        "饭馆"
+      ],
+      "lookupTerms": [
+        "饭馆"
+      ],
+      "pinyin": "fànguǎn",
+      "meaningVi": "nhà hàng",
+      "meaningViFull": [
+        "nhà hàng"
+      ],
+      "meaningEn": "restaurant",
+      "meaningEnFull": [
+        "restaurant"
+      ],
+      "traditional": "飯館",
+      "radical": "饣",
+      "frequency": 16449,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "家"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 29,
+      "level": "HSK1",
+      "hanzi": "飞机",
+      "acceptedInputs": [
+        "飞机"
+      ],
+      "lookupTerms": [
+        "飞机"
+      ],
+      "pinyin": "fēijī",
+      "meaningVi": "máy bay",
+      "meaningViFull": [
+        "máy bay"
+      ],
+      "meaningEn": "airplane",
+      "meaningEnFull": [
+        "airplane"
+      ],
+      "traditional": "飛機",
+      "radical": "飞",
+      "frequency": 1067,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "架"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 30,
+      "level": "HSK1",
+      "hanzi": "分钟",
+      "acceptedInputs": [
+        "分钟"
+      ],
+      "lookupTerms": [
+        "分钟"
+      ],
+      "pinyin": "fēnzhōng",
+      "meaningVi": "phút",
+      "meaningViFull": [
+        "phút"
+      ],
+      "meaningEn": "minute",
+      "meaningEnFull": [
+        "minute"
+      ],
+      "traditional": "分鐘",
+      "radical": "刀",
+      "frequency": 465,
+      "partOfSpeech": [
+        "qt"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 31,
+      "level": "HSK1",
+      "hanzi": "高兴",
+      "acceptedInputs": [
+        "高兴"
+      ],
+      "lookupTerms": [
+        "高兴"
+      ],
+      "pinyin": "gāoxìng",
+      "meaningVi": "vui; vui vẻ",
+      "meaningViFull": [
+        "vui",
+        "vui vẻ",
+        "sẵn lòng (làm gì đó)",
+        "tâm trạng vui vẻ"
+      ],
+      "meaningEn": "happy; glad",
+      "meaningEnFull": [
+        "happy",
+        "glad",
+        "willing (to do sth)",
+        "in a cheerful mood"
+      ],
+      "traditional": "高興",
+      "radical": "高",
+      "frequency": 920,
+      "partOfSpeech": [
+        "a",
+        "an"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 32,
+      "level": "HSK1",
+      "hanzi": "个",
+      "acceptedInputs": [
+        "个"
+      ],
+      "lookupTerms": [
+        "个"
+      ],
+      "pinyin": "gè",
+      "meaningVi": "(lượng từ dùng trước danh từ không có lượng từ cụ thể); (dạng kết hợp) cá nhân",
+      "meaningViFull": [
+        "(lượng từ dùng trước danh từ không có lượng từ cụ thể)",
+        "(dạng kết hợp) cá nhân"
+      ],
+      "meaningEn": "(classifier used before a noun that has no specific classifier); (bound form) individual",
+      "meaningEnFull": [
+        "(classifier used before a noun that has no specific classifier)",
+        "(bound form) individual"
+      ],
+      "traditional": "個",
+      "radical": "丨",
+      "frequency": 19,
+      "partOfSpeech": [
+        "q",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 33,
+      "level": "HSK1",
+      "hanzi": "工作",
+      "acceptedInputs": [
+        "工作"
+      ],
+      "lookupTerms": [
+        "工作"
+      ],
+      "pinyin": "gōngzuò",
+      "meaningVi": "làm việc; (máy móc) vận hành",
+      "meaningViFull": [
+        "làm việc",
+        "(máy móc) vận hành",
+        "công việc",
+        "việc",
+        "nhiệm vụ"
+      ],
+      "meaningEn": "to work; (of a machine) to operate",
+      "meaningEnFull": [
+        "to work",
+        "(of a machine) to operate",
+        "job",
+        "work",
+        "task"
+      ],
+      "traditional": "工作",
+      "radical": "工",
+      "frequency": 111,
+      "partOfSpeech": [
+        "vn",
+        "v",
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "份",
+        "项"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 34,
+      "level": "HSK1",
+      "hanzi": "狗",
+      "acceptedInputs": [
+        "狗"
+      ],
+      "lookupTerms": [
+        "狗"
+      ],
+      "pinyin": "gǒu",
+      "meaningVi": "chó",
+      "meaningViFull": [
+        "chó"
+      ],
+      "meaningEn": "dog",
+      "meaningEnFull": [
+        "dog"
+      ],
+      "traditional": "狗",
+      "radical": "犭",
+      "frequency": 620,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "只",
+        "条"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 35,
+      "level": "HSK1",
+      "hanzi": "汉语",
+      "acceptedInputs": [
+        "汉语"
+      ],
+      "lookupTerms": [
+        "汉语"
+      ],
+      "pinyin": "Hànyǔ",
+      "meaningVi": "Ngôn ngữ tiếng Trung",
+      "meaningViFull": [
+        "Ngôn ngữ tiếng Trung"
+      ],
+      "meaningEn": "Chinese language",
+      "meaningEnFull": [
+        "Chinese language"
+      ],
+      "traditional": "漢語",
+      "radical": "氵",
+      "frequency": 13422,
+      "partOfSpeech": [
+        "nz"
+      ],
+      "classifiers": [
+        "门"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 36,
+      "level": "HSK1",
+      "hanzi": "好",
+      "acceptedInputs": [
+        "好"
+      ],
+      "lookupTerms": [
+        "好"
+      ],
+      "pinyin": "hǎo",
+      "meaningVi": "tốt; thích hợp; đúng",
+      "meaningViFull": [
+        "tốt",
+        "thích hợp; đúng",
+        "(trước động từ) dễ",
+        "(trước động từ) tốt để",
+        "(trước tính từ để nhấn mạnh) rất",
+        "(bổ ngữ động từ chỉ sự hoàn thành)",
+        "(hai người) thân thiết; có quan hệ gần gũi",
+        "(sau đại từ nhân xưng) xin chào"
+      ],
+      "meaningEn": "good; appropriate; proper",
+      "meaningEnFull": [
+        "good",
+        "appropriate; proper",
+        "all right!",
+        "(before a verb) easy to",
+        "(before a verb) good to",
+        "(before an adjective for exclamatory effect) so",
+        "(verb complement indicating completion)",
+        "(of two people) close; on intimate terms",
+        "(after a personal pronoun) hello"
+      ],
+      "traditional": "好",
+      "radical": "女",
+      "frequency": 20,
+      "partOfSpeech": [
+        "a",
+        "d",
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 37,
+      "level": "HSK1",
+      "hanzi": "喝",
+      "acceptedInputs": [
+        "喝"
+      ],
+      "lookupTerms": [
+        "喝"
+      ],
+      "pinyin": "hē",
+      "meaningVi": "uống; biến thể của 嗬[he1]",
+      "meaningViFull": [
+        "uống",
+        "biến thể của 嗬[he1]"
+      ],
+      "meaningEn": "to drink; variant of 嗬",
+      "meaningEnFull": [
+        "to drink",
+        "variant of 嗬"
+      ],
+      "traditional": "喝",
+      "radical": "口",
+      "frequency": 428,
+      "partOfSpeech": [
+        "g",
+        "vn"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 38,
+      "level": "HSK1",
+      "hanzi": "和",
+      "acceptedInputs": [
+        "和"
+      ],
+      "lookupTerms": [
+        "和"
+      ],
+      "pinyin": "hé",
+      "meaningVi": "biến thể cũ của 和[he2]",
+      "meaningViFull": [
+        "biến thể cũ của 和[he2]"
+      ],
+      "meaningEn": "old variant of 和",
+      "meaningEnFull": [
+        "old variant of 和"
+      ],
+      "traditional": "咊",
+      "radical": "口",
+      "frequency": 19,
+      "partOfSpeech": [
+        "cc",
+        "p",
+        "v",
+        "qv",
+        "g",
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 39,
+      "level": "HSK1",
+      "hanzi": "很",
+      "acceptedInputs": [
+        "很"
+      ],
+      "lookupTerms": [
+        "很"
+      ],
+      "pinyin": "hěn",
+      "meaningVi": "(phó từ mức độ); khá",
+      "meaningViFull": [
+        "(phó từ mức độ)",
+        "khá",
+        "rất",
+        "cực kỳ"
+      ],
+      "meaningEn": "(adverb of degree); quite",
+      "meaningEnFull": [
+        "(adverb of degree)",
+        "quite",
+        "very",
+        "awfully"
+      ],
+      "traditional": "很",
+      "radical": "彳",
+      "frequency": 35,
+      "partOfSpeech": [
+        "d"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 40,
+      "level": "HSK1",
+      "hanzi": "后面",
+      "acceptedInputs": [
+        "后面"
+      ],
+      "lookupTerms": [
+        "后面"
+      ],
+      "pinyin": "hòumiàn",
+      "meaningVi": "phía sau; phía đuôi; đoạn cuối; đằng sau; gần cuối; ở phía sau",
+      "meaningViFull": [
+        "phía sau; phía đuôi; đoạn cuối",
+        "đằng sau; gần cuối; ở phía sau",
+        "sau này; sau đó"
+      ],
+      "meaningEn": "the back; the rear; the last bit; behind; near the end; at the back",
+      "meaningEnFull": [
+        "the back; the rear; the last bit",
+        "behind; near the end; at the back",
+        "later; afterwards"
+      ],
+      "traditional": "後面",
+      "radical": "口",
+      "frequency": 1300,
+      "partOfSpeech": [
+        "f"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 41,
+      "level": "HSK1",
+      "hanzi": "回",
+      "acceptedInputs": [
+        "回"
+      ],
+      "lookupTerms": [
+        "回"
+      ],
+      "pinyin": "huí",
+      "meaningVi": "xoay vòng; quay lại",
+      "meaningViFull": [
+        "xoay vòng",
+        "quay lại",
+        "quay quanh",
+        "trả lời",
+        "trở về",
+        "xoay",
+        "chủng tộc Hồi (người Hồi giáo Trung Quốc)",
+        "lần",
+        "lượng từ cho hành động trong vở kịch",
+        "phần hoặc chương (của sách kinh điển)"
+      ],
+      "meaningEn": "to circle; to go back",
+      "meaningEnFull": [
+        "to circle",
+        "to go back",
+        "to turn around",
+        "to answer",
+        "to return",
+        "to revolve",
+        "Hui ethnic group (Chinese Muslims)",
+        "time",
+        "classifier for acts of a play",
+        "section or chapter (of a classic book)"
+      ],
+      "traditional": "回",
+      "radical": "囗",
+      "frequency": 225,
+      "partOfSpeech": [
+        "v",
+        "qv"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 42,
+      "level": "HSK1",
+      "hanzi": "会",
+      "acceptedInputs": [
+        "会"
+      ],
+      "lookupTerms": [
+        "会"
+      ],
+      "pinyin": "huì",
+      "meaningVi": "có thể; có kỹ năng; biết cách; có khả năng; chắc chắn",
+      "meaningViFull": [
+        "có thể; có kỹ năng; biết cách",
+        "có khả năng; chắc chắn",
+        "gặp gỡ; tụ họp",
+        "cuộc họp; buổi tụ họp",
+        "(hậu tố) liên minh; nhóm; hiệp hội",
+        "(dạng kết hợp) một lúc (cách phát âm Đài Loan [hui3])"
+      ],
+      "meaningEn": "can; to have the skill; to know how to; to be likely to; to be sure to",
+      "meaningEnFull": [
+        "can; to have the skill; to know how to",
+        "to be likely to; to be sure to",
+        "to meet; to get together",
+        "meeting; gathering",
+        "(suffix) union; group; association",
+        "(bound form) a moment (Taiwan pr. [huǐ])"
+      ],
+      "traditional": "會",
+      "radical": "人",
+      "frequency": 23,
+      "partOfSpeech": [
+        "v",
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 43,
+      "level": "HSK1",
+      "hanzi": "火车站",
+      "acceptedInputs": [
+        "火车站"
+      ],
+      "lookupTerms": [
+        "火车站"
+      ],
+      "pinyin": "huǒchēzhàn",
+      "meaningVi": "nhà ga",
+      "meaningViFull": [
+        "nhà ga"
+      ],
+      "meaningEn": "train station",
+      "meaningEnFull": [
+        "train station"
+      ],
+      "traditional": "火車站",
+      "radical": "火",
+      "frequency": 7270,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 44,
+      "level": "HSK1",
+      "hanzi": "几",
+      "acceptedInputs": [
+        "几"
+      ],
+      "lookupTerms": [
+        "几"
+      ],
+      "pinyin": "jǐ",
+      "meaningVi": "bao nhiêu; mấy",
+      "meaningViFull": [
+        "bao nhiêu",
+        "mấy",
+        "một vài",
+        "vài"
+      ],
+      "meaningEn": "how much; how many",
+      "meaningEnFull": [
+        "how much",
+        "how many",
+        "several",
+        "a few"
+      ],
+      "traditional": "幾",
+      "radical": "几",
+      "frequency": 178,
+      "partOfSpeech": [
+        "m",
+        "d"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 45,
+      "level": "HSK1",
+      "hanzi": "家",
+      "acceptedInputs": [
+        "家"
+      ],
+      "lookupTerms": [
+        "家"
+      ],
+      "pinyin": "jiā",
+      "meaningVi": "dùng trong 傢伙|家伙[jia1 huo5] và 傢俱|家俱[jia1 ju4]",
+      "meaningViFull": [
+        "dùng trong 傢伙|家伙[jia1 huo5] và 傢俱|家俱[jia1 ju4]"
+      ],
+      "meaningEn": "used in 家伙 and 家俱",
+      "meaningEnFull": [
+        "used in 家伙 and 家俱"
+      ],
+      "traditional": "傢",
+      "radical": "宀",
+      "frequency": 124,
+      "partOfSpeech": [
+        "n",
+        "q"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 46,
+      "level": "HSK1",
+      "hanzi": "叫",
+      "acceptedInputs": [
+        "叫"
+      ],
+      "lookupTerms": [
+        "叫"
+      ],
+      "pinyin": "jiào",
+      "meaningVi": "kêu; gọi",
+      "meaningViFull": [
+        "kêu",
+        "gọi",
+        "đặt hàng",
+        "bảo",
+        "được gọi",
+        "bởi (chỉ tác nhân trong câu bị động)"
+      ],
+      "meaningEn": "to shout; to call",
+      "meaningEnFull": [
+        "to shout",
+        "to call",
+        "to order",
+        "to ask",
+        "to be called",
+        "by (indicates agent in the passive mood)"
+      ],
+      "traditional": "叫",
+      "radical": "口",
+      "frequency": 200,
+      "partOfSpeech": [
+        "v",
+        "p",
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 47,
+      "level": "HSK1",
+      "hanzi": "今天",
+      "acceptedInputs": [
+        "今天"
+      ],
+      "lookupTerms": [
+        "今天"
+      ],
+      "pinyin": "jīntiān",
+      "meaningVi": "hôm nay; thời điểm hiện tại; bây giờ",
+      "meaningViFull": [
+        "hôm nay",
+        "thời điểm hiện tại; bây giờ"
+      ],
+      "meaningEn": "today; at the present",
+      "meaningEnFull": [
+        "today",
+        "at the present",
+        "now"
+      ],
+      "traditional": "今天",
+      "radical": "人",
+      "frequency": 155,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 48,
+      "level": "HSK1",
+      "hanzi": "九",
+      "acceptedInputs": [
+        "九"
+      ],
+      "lookupTerms": [
+        "九"
+      ],
+      "pinyin": "jiǔ",
+      "meaningVi": "chín; 9",
+      "meaningViFull": [
+        "chín",
+        "9"
+      ],
+      "meaningEn": "nine; 9",
+      "meaningEnFull": [
+        "nine",
+        "9"
+      ],
+      "traditional": "九",
+      "radical": "乙",
+      "frequency": 2040,
+      "partOfSpeech": [
+        "m",
+        "t",
+        "b"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 49,
+      "level": "HSK1",
+      "hanzi": "开",
+      "acceptedInputs": [
+        "开"
+      ],
+      "lookupTerms": [
+        "开"
+      ],
+      "pinyin": "kāi",
+      "meaningVi": "mở (ngoại động từ hoặc nội động từ); (tàu thuyền, xe cộ, quân đội, v.v.) bắt đầu",
+      "meaningViFull": [
+        "mở (ngoại động từ hoặc nội động từ)",
+        "(tàu thuyền, xe cộ, quân đội, v.v.) bắt đầu",
+        "bật; vận hành; hoạt động; chạy",
+        "đun sôi",
+        "viết (đơn thuốc, séc, hóa đơn, v.v.)",
+        "(bổ ngữ xu hướng) đi; rời",
+        "carat (vàng)",
+        "viết tắt của Kelvin, 開爾文|开尔文[Kai1 er3 wen2]",
+        "viết tắt của 開本|开本[kai1 ben3], khổ sách"
+      ],
+      "meaningEn": "to open (transitive or intransitive); (of ships, vehicles, troops etc) to start",
+      "meaningEnFull": [
+        "to open (transitive or intransitive)",
+        "(of ships, vehicles, troops etc) to start",
+        "to turn on; to put in operation; to operate; to run",
+        "to boil",
+        "to write out (a prescription, check, invoice etc)",
+        "(directional complement) away; off",
+        "carat (gold)",
+        "abbr. for Kelvin, 开尔文",
+        "abbr. for 开本, book format"
+      ],
+      "traditional": "開",
+      "radical": "廾",
+      "frequency": 195,
+      "partOfSpeech": [
+        "v",
+        "q"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 50,
+      "level": "HSK1",
+      "hanzi": "看",
+      "acceptedInputs": [
+        "看"
+      ],
+      "lookupTerms": [
+        "看"
+      ],
+      "pinyin": "kàn",
+      "meaningVi": "nhìn; xem; đọc",
+      "meaningViFull": [
+        "nhìn; xem",
+        "đọc",
+        "xem thăm; thăm viếng",
+        "xem như",
+        "coi như",
+        "chăm sóc",
+        "chữa (bệnh hoặc triệu chứng)",
+        "phụ thuộc",
+        "cảm thấy (rằng)",
+        "(sau động từ) thử làm",
+        "cẩn thận; coi chừng"
+      ],
+      "meaningEn": "to see; to look at; to read",
+      "meaningEnFull": [
+        "to see; to look at",
+        "to read",
+        "to watch",
+        "to visit; to call on",
+        "to consider; to regard as",
+        "to look after",
+        "to treat (a patient or illness)",
+        "to depend on",
+        "to feel (that)",
+        "(after a verb) to give it a try",
+        "to watch out for"
+      ],
+      "traditional": "看",
+      "radical": "目",
+      "frequency": 52,
+      "partOfSpeech": [
+        "v",
+        "u"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 51,
+      "level": "HSK1",
+      "hanzi": "看见",
+      "acceptedInputs": [
+        "看见"
+      ],
+      "lookupTerms": [
+        "看见"
+      ],
+      "pinyin": "kànjiàn",
+      "meaningVi": "nhìn thấy; bắt gặp",
+      "meaningViFull": [
+        "nhìn thấy",
+        "bắt gặp"
+      ],
+      "meaningEn": "to see; to catch sight of",
+      "meaningEnFull": [
+        "to see",
+        "to catch sight of"
+      ],
+      "traditional": "看見",
+      "radical": "目",
+      "frequency": 870,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 52,
+      "level": "HSK1",
+      "hanzi": "块",
+      "acceptedInputs": [
+        "块"
+      ],
+      "lookupTerms": [
+        "块"
+      ],
+      "pinyin": "kuài",
+      "meaningVi": "cục; tảng; miếng; lượng từ cho miếng vải, bánh, xà phòng, v.v.",
+      "meaningViFull": [
+        "cục; tảng; miếng",
+        "lượng từ cho miếng vải, bánh, xà phòng, v.v.",
+        "(thông tục) lượng từ cho tiền và đơn vị tiền tệ"
+      ],
+      "meaningEn": "lump; chunk; piece; classifier for pieces of cloth, cake, soap etc",
+      "meaningEnFull": [
+        "lump; chunk; piece",
+        "classifier for pieces of cloth, cake, soap etc",
+        "(coll.) classifier for money and currency units"
+      ],
+      "traditional": "塊",
+      "radical": "土",
+      "frequency": 483,
+      "partOfSpeech": [
+        "q",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 53,
+      "level": "HSK1",
+      "hanzi": "来",
+      "acceptedInputs": [
+        "来"
+      ],
+      "lookupTerms": [
+        "来"
+      ],
+      "pinyin": "lái",
+      "meaningVi": "đến; (dùng thay cho động từ cụ thể hơn)",
+      "meaningViFull": [
+        "đến",
+        "(dùng thay cho động từ cụ thể hơn)",
+        "lại đây (bổ ngữ hướng chỉ động tác về phía người nói, như trong 回來|回来[hui2lai5])",
+        "từ khi (như trong 自古以來|自古以来[zi4gu3 yi3lai2])",
+        "trong (khoảng thời gian đã qua)",
+        "(tiền tố) ... sắp tới; ... tiếp theo (như trong 來世|来世[lai2shi4])",
+        "(giữa hai động từ) để",
+        "(sau số tròn) khoảng",
+        "chỉ khả năng sau 得[de2], như trong 談得來|谈得来[tan2de5lai2], hoặc chỉ không khả năng sau 不[bu4], như trong 吃不來|吃不来[chi1bu5lai2])"
+      ],
+      "meaningEn": "to come; (used as a substitute for a more specific verb)",
+      "meaningEnFull": [
+        "to come",
+        "(used as a substitute for a more specific verb)",
+        "hither (directional complement for motion toward the speaker, as in 回来)",
+        "ever since (as in 自古以来)",
+        "for the past (amount of time)",
+        "(prefix) the coming ...; the next ... (as in 来世)",
+        "(between two verbs) in order to",
+        "(after a round number) approximately",
+        "(used after 得 to indicate possibility, as in 谈得来, or after 不 to indicate impossibility, as in 吃不来)"
+      ],
+      "traditional": "來",
+      "radical": "木",
+      "frequency": 31,
+      "partOfSpeech": [
+        "v",
+        "f",
+        "m",
+        "u",
+        "y"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 54,
+      "level": "HSK1",
+      "hanzi": "老师",
+      "acceptedInputs": [
+        "老师"
+      ],
+      "lookupTerms": [
+        "老师"
+      ],
+      "pinyin": "lǎoshī",
+      "meaningVi": "giáo viên",
+      "meaningViFull": [
+        "giáo viên"
+      ],
+      "meaningEn": "teacher",
+      "meaningEnFull": [
+        "teacher"
+      ],
+      "traditional": "老師",
+      "radical": "老",
+      "frequency": 799,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 55,
+      "level": "HSK1",
+      "hanzi": "了",
+      "acceptedInputs": [
+        "了"
+      ],
+      "lookupTerms": [
+        "了"
+      ],
+      "pinyin": "le",
+      "meaningVi": "(trợ từ chỉ hành động đã hoàn thành); (trợ từ ngữ khí chỉ sự thay đổi trạng thái, tình huống hiện tại)",
+      "meaningViFull": [
+        "(trợ từ chỉ hành động đã hoàn thành)",
+        "(trợ từ ngữ khí chỉ sự thay đổi trạng thái, tình huống hiện tại)",
+        "(trợ từ ngữ khí nhấn mạnh mệnh đề đứng trước)"
+      ],
+      "meaningEn": "(completed action marker); (modal particle indicating change of state, situation now)",
+      "meaningEnFull": [
+        "(completed action marker)",
+        "(modal particle indicating change of state, situation now)",
+        "(modal particle intensifying preceding clause)"
+      ],
+      "traditional": "了",
+      "radical": "亅",
+      "frequency": 3,
+      "partOfSpeech": [
+        "y",
+        "u",
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 56,
+      "level": "HSK1",
+      "hanzi": "冷",
+      "acceptedInputs": [
+        "冷"
+      ],
+      "lookupTerms": [
+        "冷"
+      ],
+      "pinyin": "lěng",
+      "meaningVi": "họ [Leng3]",
+      "meaningViFull": [
+        "họ [Leng3]"
+      ],
+      "meaningEn": "surname Leng",
+      "meaningEnFull": [
+        "surname Leng"
+      ],
+      "traditional": "冷",
+      "radical": "冫",
+      "frequency": 1027,
+      "partOfSpeech": [
+        "a",
+        "ad",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 57,
+      "level": "HSK1",
+      "hanzi": "里",
+      "acceptedInputs": [
+        "里"
+      ],
+      "lookupTerms": [
+        "里"
+      ],
+      "pinyin": "lǐ",
+      "meaningVi": "biến thể của 裡|里[li3]",
+      "meaningViFull": [
+        "biến thể của 裡|里[li3]"
+      ],
+      "meaningEn": "variant of 里",
+      "meaningEnFull": [
+        "variant of 里"
+      ],
+      "traditional": "裏",
+      "radical": "里",
+      "frequency": 75,
+      "partOfSpeech": [
+        "f",
+        "q"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 58,
+      "level": "HSK1",
+      "hanzi": "零",
+      "acceptedInputs": [
+        "零"
+      ],
+      "lookupTerms": [
+        "零"
+      ],
+      "pinyin": "líng",
+      "meaningVi": "không; số không",
+      "meaningViFull": [
+        "không",
+        "số không",
+        "ký hiệu không",
+        "phân số",
+        "vụn vặt",
+        "lẻ (của số)",
+        "(đặt giữa hai số để chỉ số lượng nhỏ hơn theo sau bởi số lớn hơn)",
+        "(trong toán học) số dư (sau phép chia)",
+        "thêm",
+        "héo rụng",
+        "héo"
+      ],
+      "meaningEn": "zero; nought",
+      "meaningEnFull": [
+        "zero",
+        "nought",
+        "zero sign",
+        "fractional",
+        "fragmentary",
+        "odd (of numbers)",
+        "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+        "fraction",
+        "(in mathematics) remainder (after division)",
+        "extra",
+        "to wither and fall",
+        "to wither"
+      ],
+      "traditional": "零",
+      "radical": "雨",
+      "frequency": 3623,
+      "partOfSpeech": [
+        "m",
+        "t",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 59,
+      "level": "HSK1",
+      "hanzi": "六",
+      "acceptedInputs": [
+        "六"
+      ],
+      "lookupTerms": [
+        "六"
+      ],
+      "pinyin": "liù",
+      "meaningVi": "sáu; 6",
+      "meaningViFull": [
+        "sáu",
+        "6"
+      ],
+      "meaningEn": "six; 6",
+      "meaningEnFull": [
+        "six",
+        "6"
+      ],
+      "traditional": "六",
+      "radical": "八",
+      "frequency": 802,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 60,
+      "level": "HSK1",
+      "hanzi": "妈妈",
+      "acceptedInputs": [
+        "妈妈"
+      ],
+      "lookupTerms": [
+        "妈妈"
+      ],
+      "pinyin": "māma",
+      "meaningVi": "mẹ; má",
+      "meaningViFull": [
+        "mẹ",
+        "má"
+      ],
+      "meaningEn": "mama; mommy",
+      "meaningEnFull": [
+        "mama",
+        "mommy",
+        "mother"
+      ],
+      "traditional": "媽媽",
+      "radical": "女",
+      "frequency": 527,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 61,
+      "level": "HSK1",
+      "hanzi": "吗",
+      "acceptedInputs": [
+        "吗"
+      ],
+      "lookupTerms": [
+        "吗"
+      ],
+      "pinyin": "ma",
+      "meaningVi": "(trợ từ nghi vấn cho câu hỏi \"có-không\")",
+      "meaningViFull": [
+        "(trợ từ nghi vấn cho câu hỏi \"có-không\")"
+      ],
+      "meaningEn": "(question particle for \"yes-no\" questions)",
+      "meaningEnFull": [
+        "(question particle for \"yes-no\" questions)"
+      ],
+      "traditional": "嗎",
+      "radical": "口",
+      "frequency": 83,
+      "partOfSpeech": [
+        "y"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 62,
+      "level": "HSK1",
+      "hanzi": "买",
+      "acceptedInputs": [
+        "买"
+      ],
+      "lookupTerms": [
+        "买"
+      ],
+      "pinyin": "mǎi",
+      "meaningVi": "mua; mua sắm",
+      "meaningViFull": [
+        "mua",
+        "mua sắm"
+      ],
+      "meaningEn": "to buy; to purchase",
+      "meaningEnFull": [
+        "to buy",
+        "to purchase"
+      ],
+      "traditional": "買",
+      "radical": "大",
+      "frequency": 240,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 63,
+      "level": "HSK1",
+      "hanzi": "猫",
+      "acceptedInputs": [
+        "猫"
+      ],
+      "lookupTerms": [
+        "猫"
+      ],
+      "pinyin": "māo",
+      "meaningVi": "mèo (LT: 隻|只[zhi1]); (phương ngữ) trốn",
+      "meaningViFull": [
+        "mèo (LT: 隻|只[zhi1])",
+        "(phương ngữ) trốn",
+        "(từ mượn) (thông tục) modem"
+      ],
+      "meaningEn": "cat; (dialect) to hide oneself",
+      "meaningEnFull": [
+        "cat",
+        "(dialect) to hide oneself",
+        "(coll.) modem"
+      ],
+      "traditional": "貓",
+      "radical": "犭",
+      "frequency": 1150,
+      "partOfSpeech": [
+        "n",
+        "v"
+      ],
+      "classifiers": [
+        "只"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 64,
+      "level": "HSK1",
+      "hanzi": "没",
+      "acceptedInputs": [
+        "没"
+      ],
+      "lookupTerms": [
+        "没"
+      ],
+      "pinyin": "méi",
+      "meaningVi": "(tiền tố phủ định cho động từ) chưa; không",
+      "meaningViFull": [
+        "(tiền tố phủ định cho động từ) chưa; không"
+      ],
+      "meaningEn": "(negative prefix for verbs) have not; not",
+      "meaningEnFull": [
+        "(negative prefix for verbs) have not; not"
+      ],
+      "traditional": "沒",
+      "radical": "氵",
+      "frequency": 63,
+      "partOfSpeech": [
+        "d",
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 65,
+      "level": "HSK1",
+      "hanzi": "没关系",
+      "acceptedInputs": [
+        "没关系"
+      ],
+      "lookupTerms": [
+        "没关系"
+      ],
+      "pinyin": "méi guānxi",
+      "meaningVi": "không sao đâu",
+      "meaningViFull": [
+        "không sao đâu"
+      ],
+      "meaningEn": "it doesn't matter",
+      "meaningEnFull": [
+        "it doesn't matter"
+      ],
+      "traditional": "沒關係",
+      "radical": "氵",
+      "frequency": 3541,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 66,
+      "level": "HSK1",
+      "hanzi": "米饭",
+      "acceptedInputs": [
+        "米饭"
+      ],
+      "lookupTerms": [
+        "米饭"
+      ],
+      "pinyin": "mǐfàn",
+      "meaningVi": "(cơm) đã nấu",
+      "meaningViFull": [
+        "(cơm) đã nấu"
+      ],
+      "meaningEn": "(cooked) rice",
+      "meaningEnFull": [
+        "(cooked) rice"
+      ],
+      "traditional": "米飯",
+      "radical": "米",
+      "frequency": 10194,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 67,
+      "level": "HSK1",
+      "hanzi": "明天",
+      "acceptedInputs": [
+        "明天"
+      ],
+      "lookupTerms": [
+        "明天"
+      ],
+      "pinyin": "míngtiān",
+      "meaningVi": "ngày mai",
+      "meaningViFull": [
+        "ngày mai"
+      ],
+      "meaningEn": "tomorrow",
+      "meaningEnFull": [
+        "tomorrow"
+      ],
+      "traditional": "明天",
+      "radical": "日",
+      "frequency": 469,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 68,
+      "level": "HSK1",
+      "hanzi": "名字",
+      "acceptedInputs": [
+        "名字"
+      ],
+      "lookupTerms": [
+        "名字"
+      ],
+      "pinyin": "míngzi",
+      "meaningVi": "tên (của người hoặc vật)",
+      "meaningViFull": [
+        "tên (của người hoặc vật)"
+      ],
+      "meaningEn": "name (of a person or thing)",
+      "meaningEnFull": [
+        "name (of a person or thing)"
+      ],
+      "traditional": "名字",
+      "radical": "口",
+      "frequency": 829,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 69,
+      "level": "HSK1",
+      "hanzi": "哪（哪儿）",
+      "acceptedInputs": [
+        "哪",
+        "哪儿"
+      ],
+      "lookupTerms": [
+        "哪（哪儿）",
+        "哪儿",
+        "哪"
+      ],
+      "pinyin": "nǎ (nǎr)",
+      "meaningVi": "ở đâu?; bất cứ đâu; nơi nào đó",
+      "meaningViFull": [
+        "ở đâu?",
+        "bất cứ đâu; nơi nào đó",
+        "(dùng trong câu hỏi tu từ) làm sao có thể ...?; làm sao có thể ... được?"
+      ],
+      "meaningEn": "where?; wherever; anywhere; somewhere",
+      "meaningEnFull": [
+        "where?",
+        "wherever; anywhere; somewhere",
+        "(used in rhetorical questions) how can ...?; how could ...?"
+      ],
+      "traditional": "哪兒",
+      "radical": "口",
+      "frequency": 2534,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 70,
+      "level": "HSK1",
+      "hanzi": "那（那儿）",
+      "acceptedInputs": [
+        "那",
+        "那儿"
+      ],
+      "lookupTerms": [
+        "那（那儿）",
+        "那儿",
+        "那"
+      ],
+      "pinyin": "nà (nàr)",
+      "meaningVi": "ở đó",
+      "meaningViFull": [
+        "ở đó"
+      ],
+      "meaningEn": "there",
+      "meaningEnFull": [
+        "there"
+      ],
+      "traditional": "那兒",
+      "radical": "阝",
+      "frequency": 3421,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 71,
+      "level": "HSK1",
+      "hanzi": "呢",
+      "acceptedInputs": [
+        "呢"
+      ],
+      "lookupTerms": [
+        "呢"
+      ],
+      "pinyin": "ne",
+      "meaningVi": "trợ từ chỉ rằng câu hỏi được hỏi trước đó áp dụng cho từ đứng trước (\"Còn ...?\", \"Và ...?\"); trợ từ để hỏi về địa điểm (\"Ở đâu ...?\")",
+      "meaningViFull": [
+        "trợ từ chỉ rằng câu hỏi được hỏi trước đó áp dụng cho từ đứng trước (\"Còn ...?\", \"Và ...?\")",
+        "trợ từ để hỏi về địa điểm (\"Ở đâu ...?\")",
+        "trợ từ biểu thị ngắt quãng, nhấn mạnh từ đứng trước và cho người nghe thời gian tiếp nhận (\"được không?\", \"bạn hiểu không?\")",
+        "(cuối câu trần thuật) trợ từ chỉ sự tiếp tục của trạng thái hoặc hành động",
+        "trợ từ chỉ sự khẳng định mạnh mẽ"
+      ],
+      "meaningEn": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\"); particle for inquiring about location (\"Where is ...?\")",
+      "meaningEnFull": [
+        "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "particle for inquiring about location (\"Where is ...?\")",
+        "particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")",
+        "(at the end of a declarative sentence) particle indicating continuation of a state or action",
+        "particle indicating strong affirmation"
+      ],
+      "traditional": "呢",
+      "radical": "口",
+      "frequency": 96,
+      "partOfSpeech": [
+        "y"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 72,
+      "level": "HSK1",
+      "hanzi": "能",
+      "acceptedInputs": [
+        "能"
+      ],
+      "lookupTerms": [
+        "能"
+      ],
+      "pinyin": "néng",
+      "meaningVi": "họ [Neng2]",
+      "meaningViFull": [
+        "họ [Neng2]"
+      ],
+      "meaningEn": "surname Neng",
+      "meaningEnFull": [
+        "surname Neng"
+      ],
+      "traditional": "能",
+      "radical": "⺼",
+      "frequency": 46,
+      "partOfSpeech": [
+        "v",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 73,
+      "level": "HSK1",
+      "hanzi": "你",
+      "acceptedInputs": [
+        "你"
+      ],
+      "lookupTerms": [
+        "你"
+      ],
+      "pinyin": "nǐ",
+      "meaningVi": "bạn (ngôi thứ hai thông dụng, khác với kính trọng 您[nin2])",
+      "meaningViFull": [
+        "bạn (ngôi thứ hai thông dụng, khác với kính trọng 您[nin2])"
+      ],
+      "meaningEn": "you (informal, as opposed to courteous 您)",
+      "meaningEnFull": [
+        "you (informal, as opposed to courteous 您)"
+      ],
+      "traditional": "你",
+      "radical": "亻",
+      "frequency": 5,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 74,
+      "level": "HSK1",
+      "hanzi": "年",
+      "acceptedInputs": [
+        "年"
+      ],
+      "lookupTerms": [
+        "年"
+      ],
+      "pinyin": "nián",
+      "meaningVi": "họ [Nian2]",
+      "meaningViFull": [
+        "họ [Nian2]"
+      ],
+      "meaningEn": "surname Nian",
+      "meaningEnFull": [
+        "surname Nian"
+      ],
+      "traditional": "年",
+      "radical": "干",
+      "frequency": 79,
+      "partOfSpeech": [
+        "qt",
+        "t",
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 75,
+      "level": "HSK1",
+      "hanzi": "女儿",
+      "acceptedInputs": [
+        "女儿"
+      ],
+      "lookupTerms": [
+        "女儿"
+      ],
+      "pinyin": "nǚ'ér",
+      "meaningVi": "con gái",
+      "meaningViFull": [
+        "con gái"
+      ],
+      "meaningEn": "daughter",
+      "meaningEnFull": [
+        "daughter"
+      ],
+      "traditional": "女兒",
+      "radical": "女",
+      "frequency": 879,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 76,
+      "level": "HSK1",
+      "hanzi": "朋友",
+      "acceptedInputs": [
+        "朋友"
+      ],
+      "lookupTerms": [
+        "朋友"
+      ],
+      "pinyin": "péngyou",
+      "meaningVi": "bạn",
+      "meaningViFull": [
+        "bạn"
+      ],
+      "meaningEn": "friend",
+      "meaningEnFull": [
+        "friend"
+      ],
+      "traditional": "朋友",
+      "radical": "月",
+      "frequency": 280,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 77,
+      "level": "HSK1",
+      "hanzi": "漂亮",
+      "acceptedInputs": [
+        "漂亮"
+      ],
+      "lookupTerms": [
+        "漂亮"
+      ],
+      "pinyin": "piàoliang",
+      "meaningVi": "xinh đẹp; đẹp",
+      "meaningViFull": [
+        "xinh đẹp; đẹp"
+      ],
+      "meaningEn": "pretty; beautiful",
+      "meaningEnFull": [
+        "pretty",
+        "beautiful"
+      ],
+      "traditional": "漂亮",
+      "radical": "氵",
+      "frequency": 915,
+      "partOfSpeech": [
+        "a"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 78,
+      "level": "HSK1",
+      "hanzi": "苹果",
+      "acceptedInputs": [
+        "苹果"
+      ],
+      "lookupTerms": [
+        "苹果"
+      ],
+      "pinyin": "píngguǒ",
+      "meaningVi": "quả táo",
+      "meaningViFull": [
+        "quả táo"
+      ],
+      "meaningEn": "apple",
+      "meaningEnFull": [
+        "apple"
+      ],
+      "traditional": "蘋果",
+      "radical": "艹",
+      "frequency": 2562,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "颗"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 79,
+      "level": "HSK1",
+      "hanzi": "七",
+      "acceptedInputs": [
+        "七"
+      ],
+      "lookupTerms": [
+        "七"
+      ],
+      "pinyin": "qī",
+      "meaningVi": "bảy; 7",
+      "meaningViFull": [
+        "bảy",
+        "7"
+      ],
+      "meaningEn": "seven; 7",
+      "meaningEnFull": [
+        "seven",
+        "7"
+      ],
+      "traditional": "七",
+      "radical": "一",
+      "frequency": 1419,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 80,
+      "level": "HSK1",
+      "hanzi": "钱",
+      "acceptedInputs": [
+        "钱"
+      ],
+      "lookupTerms": [
+        "钱"
+      ],
+      "pinyin": "qián",
+      "meaningVi": "họ [Qian2]",
+      "meaningViFull": [
+        "họ [Qian2]"
+      ],
+      "meaningEn": "surname Qian",
+      "meaningEnFull": [
+        "surname Qian"
+      ],
+      "traditional": "錢",
+      "radical": "钅",
+      "frequency": 218,
+      "partOfSpeech": [
+        "n",
+        "nr"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 81,
+      "level": "HSK1",
+      "hanzi": "前面",
+      "acceptedInputs": [
+        "前面"
+      ],
+      "lookupTerms": [
+        "前面"
+      ],
+      "pinyin": "qiánmiàn",
+      "meaningVi": "phía trước; ở trước",
+      "meaningViFull": [
+        "phía trước",
+        "ở trước",
+        "trước đó",
+        "bên trên",
+        "cũng đọc là [qian2 mian5]"
+      ],
+      "meaningEn": "ahead; in front",
+      "meaningEnFull": [
+        "ahead",
+        "in front",
+        "preceding",
+        "above",
+        "also pr. [qián mian]"
+      ],
+      "traditional": "前面",
+      "radical": "刂",
+      "frequency": 1789,
+      "partOfSpeech": [
+        "f"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 82,
+      "level": "HSK1",
+      "hanzi": "请",
+      "acceptedInputs": [
+        "请"
+      ],
+      "lookupTerms": [
+        "请"
+      ],
+      "pinyin": "qǐng",
+      "meaningVi": "mời; mời mọc",
+      "meaningViFull": [
+        "mời",
+        "mời mọc",
+        "xin (làm gì đó)",
+        "đãi (một bữa ăn, v.v.)",
+        "yêu cầu"
+      ],
+      "meaningEn": "to ask; to invite",
+      "meaningEnFull": [
+        "to ask",
+        "to invite",
+        "please (do sth)",
+        "to treat (to a meal etc)",
+        "to request"
+      ],
+      "traditional": "請",
+      "radical": "讠",
+      "frequency": 216,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 83,
+      "level": "HSK1",
+      "hanzi": "去",
+      "acceptedInputs": [
+        "去"
+      ],
+      "lookupTerms": [
+        "去"
+      ],
+      "pinyin": "qù",
+      "meaningVi": "đi; đi đến (một nơi)",
+      "meaningViFull": [
+        "đi",
+        "đi đến (một nơi)",
+        "(về thời gian, v.v.) trước",
+        "vừa qua",
+        "gửi",
+        "gỡ bỏ",
+        "loại bỏ",
+        "giảm",
+        "cách xa về không gian hoặc thời gian",
+        "mất (nói giảm)",
+        "đóng (một vai)",
+        "(khi dùng trước hoặc sau động từ) đi để làm gì đó",
+        "(sau động từ chỉ sự di chuyển ra xa người nói)",
+        "(dùng sau một số động từ để chỉ tách rời hoặc phân ly)"
+      ],
+      "meaningEn": "to go; to go to (a place)",
+      "meaningEnFull": [
+        "to go",
+        "to go to (a place)",
+        "(of a time etc) last",
+        "just passed",
+        "to send",
+        "to remove",
+        "to get rid of",
+        "to reduce",
+        "to be apart from in space or time",
+        "to die (euphemism)",
+        "to play (a part)",
+        "(when used either before or after a verb) to go in order to do sth",
+        "(after a verb of motion indicates movement away from the speaker)",
+        "(used after certain verbs to indicate detachment or separation)"
+      ],
+      "traditional": "去",
+      "radical": "厶",
+      "frequency": 38,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 84,
+      "level": "HSK1",
+      "hanzi": "热",
+      "acceptedInputs": [
+        "热"
+      ],
+      "lookupTerms": [
+        "热"
+      ],
+      "pinyin": "rè",
+      "meaningVi": "hâm nóng; làm nóng",
+      "meaningViFull": [
+        "hâm nóng",
+        "làm nóng",
+        "nóng (thời tiết)",
+        "nhiệt",
+        "nhiệt tình"
+      ],
+      "meaningEn": "to warm up; to heat up",
+      "meaningEnFull": [
+        "to warm up",
+        "to heat up",
+        "hot (of weather)",
+        "heat",
+        "fervent"
+      ],
+      "traditional": "熱",
+      "radical": "灬",
+      "frequency": 938,
+      "partOfSpeech": [
+        "a",
+        "n",
+        "k",
+        "v",
+        "ad",
+        "an"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 85,
+      "level": "HSK1",
+      "hanzi": "人",
+      "acceptedInputs": [
+        "人"
+      ],
+      "lookupTerms": [
+        "人"
+      ],
+      "pinyin": "rén",
+      "meaningVi": "người; mọi người",
+      "meaningViFull": [
+        "người; mọi người"
+      ],
+      "meaningEn": "person; people",
+      "meaningEnFull": [
+        "person; people"
+      ],
+      "traditional": "人",
+      "radical": "人",
+      "frequency": 19,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 86,
+      "level": "HSK1",
+      "hanzi": "认识",
+      "acceptedInputs": [
+        "认识"
+      ],
+      "lookupTerms": [
+        "认识"
+      ],
+      "pinyin": "rènshi",
+      "meaningVi": "biết; nhận ra",
+      "meaningViFull": [
+        "biết",
+        "nhận ra",
+        "quen thuộc",
+        "làm quen với ai đó",
+        "kiến thức",
+        "hiểu biết",
+        "nhận thức",
+        "nhận biết"
+      ],
+      "meaningEn": "to know; to recognize",
+      "meaningEnFull": [
+        "to know",
+        "to recognize",
+        "to be familiar with",
+        "to get acquainted with sb",
+        "knowledge",
+        "understanding",
+        "awareness",
+        "cognition"
+      ],
+      "traditional": "認識",
+      "radical": "讠",
+      "frequency": 463,
+      "partOfSpeech": [
+        "v",
+        "n",
+        "vn"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 87,
+      "level": "HSK1",
+      "hanzi": "日",
+      "acceptedInputs": [
+        "日"
+      ],
+      "lookupTerms": [
+        "日"
+      ],
+      "pinyin": "rì",
+      "meaningVi": "viết tắt của 日本[Ri4 ben3], Nhật Bản",
+      "meaningViFull": [
+        "viết tắt của 日本[Ri4 ben3], Nhật Bản"
+      ],
+      "meaningEn": "abbr. for 本, Japan",
+      "meaningEnFull": [
+        "abbr. for 本, Japan"
+      ],
+      "traditional": "日",
+      "radical": "日",
+      "frequency": 395,
+      "partOfSpeech": [
+        "t",
+        "g",
+        "b",
+        "qt"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 88,
+      "level": "HSK1",
+      "hanzi": "三",
+      "acceptedInputs": [
+        "三"
+      ],
+      "lookupTerms": [
+        "三"
+      ],
+      "pinyin": "sān",
+      "meaningVi": "họ [San1]",
+      "meaningViFull": [
+        "họ [San1]"
+      ],
+      "meaningEn": "surname San",
+      "meaningEnFull": [
+        "surname San"
+      ],
+      "traditional": "三",
+      "radical": "一",
+      "frequency": 233,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 89,
+      "level": "HSK1",
+      "hanzi": "商店",
+      "acceptedInputs": [
+        "商店"
+      ],
+      "lookupTerms": [
+        "商店"
+      ],
+      "pinyin": "shāngdiàn",
+      "meaningVi": "cửa hàng; tiệm",
+      "meaningViFull": [
+        "cửa hàng; tiệm"
+      ],
+      "meaningEn": "store; shop",
+      "meaningEnFull": [
+        "store; shop"
+      ],
+      "traditional": "商店",
+      "radical": "口",
+      "frequency": 3479,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "家",
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 90,
+      "level": "HSK1",
+      "hanzi": "上",
+      "acceptedInputs": [
+        "上"
+      ],
+      "lookupTerms": [
+        "上"
+      ],
+      "pinyin": "shàng",
+      "meaningVi": "(hình thức kết hợp) trên; phía trên; trước; đầu tiên (của nhiều phần)",
+      "meaningViFull": [
+        "(hình thức kết hợp) trên; phía trên; trước",
+        "đầu tiên (của nhiều phần)",
+        "leo; lên; đi lên",
+        "tham dự (lớp hoặc đại học)",
+        "(bổ ngữ phương hướng) lên",
+        "(hậu tố danh từ) trên; phía trên"
+      ],
+      "meaningEn": "(bound form) up; upper; above; previous; first (of multiple parts)",
+      "meaningEnFull": [
+        "(bound form) up; upper; above; previous",
+        "first (of multiple parts)",
+        "to climb; to get onto; to go up",
+        "to attend (class or university)",
+        "(directional complement) up",
+        "(noun suffix) on; above"
+      ],
+      "traditional": "上",
+      "radical": "一",
+      "frequency": 29,
+      "partOfSpeech": [
+        "f",
+        "v",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 91,
+      "level": "HSK1",
+      "hanzi": "上午",
+      "acceptedInputs": [
+        "上午"
+      ],
+      "lookupTerms": [
+        "上午"
+      ],
+      "pinyin": "shàngwǔ",
+      "meaningVi": "buổi sáng",
+      "meaningViFull": [
+        "buổi sáng"
+      ],
+      "meaningEn": "morning",
+      "meaningEnFull": [
+        "morning"
+      ],
+      "traditional": "上午",
+      "radical": "一",
+      "frequency": 2188,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 92,
+      "level": "HSK1",
+      "hanzi": "少",
+      "acceptedInputs": [
+        "少"
+      ],
+      "lookupTerms": [
+        "少"
+      ],
+      "pinyin": "shǎo",
+      "meaningVi": "ít; hơn",
+      "meaningViFull": [
+        "ít",
+        "hơn",
+        "thiếu",
+        "mất",
+        "ngừng (làm gì đó)",
+        "hiếm khi"
+      ],
+      "meaningEn": "few; less",
+      "meaningEnFull": [
+        "few",
+        "less",
+        "to lack",
+        "to be missing",
+        "to stop (doing sth)",
+        "seldom"
+      ],
+      "traditional": "少",
+      "radical": "小",
+      "frequency": 538,
+      "partOfSpeech": [
+        "a",
+        "ad",
+        "v",
+        "d",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 93,
+      "level": "HSK1",
+      "hanzi": "谁",
+      "acceptedInputs": [
+        "谁"
+      ],
+      "lookupTerms": [
+        "谁"
+      ],
+      "pinyin": "shéi",
+      "meaningVi": "ai; cũng đọc là [shui2]",
+      "meaningViFull": [
+        "ai",
+        "cũng đọc là [shui2]"
+      ],
+      "meaningEn": "who; also pr. [shuí]",
+      "meaningEnFull": [
+        "who",
+        "also pr. [shuí]"
+      ],
+      "traditional": "誰",
+      "radical": "讠",
+      "frequency": 142,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 94,
+      "level": "HSK1",
+      "hanzi": "什么",
+      "acceptedInputs": [
+        "什么"
+      ],
+      "lookupTerms": [
+        "什么"
+      ],
+      "pinyin": "shénme",
+      "meaningVi": "gì?; điều gì đó; bất kỳ điều gì",
+      "meaningViFull": [
+        "gì?",
+        "điều gì đó; bất kỳ điều gì"
+      ],
+      "meaningEn": "what?; something",
+      "meaningEnFull": [
+        "what?",
+        "something",
+        "anything"
+      ],
+      "traditional": "什麼",
+      "radical": "亻",
+      "frequency": 55,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 95,
+      "level": "HSK1",
+      "hanzi": "十",
+      "acceptedInputs": [
+        "十"
+      ],
+      "lookupTerms": [
+        "十"
+      ],
+      "pinyin": "shí",
+      "meaningVi": "mười; 10",
+      "meaningViFull": [
+        "mười",
+        "10"
+      ],
+      "meaningEn": "ten; 10",
+      "meaningEnFull": [
+        "ten",
+        "10"
+      ],
+      "traditional": "十",
+      "radical": "十",
+      "frequency": 865,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 96,
+      "level": "HSK1",
+      "hanzi": "时候",
+      "acceptedInputs": [
+        "时候"
+      ],
+      "lookupTerms": [
+        "时候"
+      ],
+      "pinyin": "shíhou",
+      "meaningVi": "thời gian; khoảng thời gian",
+      "meaningViFull": [
+        "thời gian",
+        "khoảng thời gian",
+        "khoảnh khắc",
+        "giai đoạn"
+      ],
+      "meaningEn": "time; length of time",
+      "meaningEnFull": [
+        "time",
+        "length of time",
+        "moment",
+        "period"
+      ],
+      "traditional": "時候",
+      "radical": "日",
+      "frequency": 107,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 97,
+      "level": "HSK1",
+      "hanzi": "是",
+      "acceptedInputs": [
+        "是"
+      ],
+      "lookupTerms": [
+        "是"
+      ],
+      "pinyin": "shì",
+      "meaningVi": "là (chỉ theo sau bởi danh từ); đúng; phải; thật",
+      "meaningViFull": [
+        "là (chỉ theo sau bởi danh từ)",
+        "đúng; phải; thật",
+        "sự thừa nhận tôn kính một mệnh lệnh: rất tốt",
+        "(phó từ để nhấn mạnh)"
+      ],
+      "meaningEn": "to be (followed by substantives only); correct; right; true",
+      "meaningEnFull": [
+        "to be (followed by substantives only)",
+        "correct; right; true",
+        "(respectful acknowledgement of a command) very well",
+        "(adverb for emphatic assertion)"
+      ],
+      "traditional": "是",
+      "radical": "日",
+      "frequency": 4,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 98,
+      "level": "HSK1",
+      "hanzi": "书",
+      "acceptedInputs": [
+        "书"
+      ],
+      "lookupTerms": [
+        "书"
+      ],
+      "pinyin": "shū",
+      "meaningVi": "viết tắt của 書經|书经[Shu1 jing1]",
+      "meaningViFull": [
+        "viết tắt của 書經|书经[Shu1 jing1]"
+      ],
+      "meaningEn": "abbr. for 书经",
+      "meaningEnFull": [
+        "abbr. for 书经"
+      ],
+      "traditional": "書",
+      "radical": "丨",
+      "frequency": 560,
+      "partOfSpeech": [
+        "n",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 99,
+      "level": "HSK1",
+      "hanzi": "水",
+      "acceptedInputs": [
+        "水"
+      ],
+      "lookupTerms": [
+        "水"
+      ],
+      "pinyin": "shuǐ",
+      "meaningVi": "họ [Shui3]",
+      "meaningViFull": [
+        "họ [Shui3]"
+      ],
+      "meaningEn": "surname Shui",
+      "meaningEnFull": [
+        "surname Shui"
+      ],
+      "traditional": "水",
+      "radical": "水",
+      "frequency": 335,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 100,
+      "level": "HSK1",
+      "hanzi": "水果",
+      "acceptedInputs": [
+        "水果"
+      ],
+      "lookupTerms": [
+        "水果"
+      ],
+      "pinyin": "shuǐguǒ",
+      "meaningVi": "trái cây",
+      "meaningViFull": [
+        "trái cây"
+      ],
+      "meaningEn": "fruit",
+      "meaningEnFull": [
+        "fruit"
+      ],
+      "traditional": "水果",
+      "radical": "水",
+      "frequency": 3271,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 101,
+      "level": "HSK1",
+      "hanzi": "睡觉",
+      "acceptedInputs": [
+        "睡觉"
+      ],
+      "lookupTerms": [
+        "睡觉"
+      ],
+      "pinyin": "shuìjiào",
+      "meaningVi": "đi ngủ; ngủ",
+      "meaningViFull": [
+        "đi ngủ",
+        "ngủ"
+      ],
+      "meaningEn": "to go to bed; to sleep",
+      "meaningEnFull": [
+        "to go to bed",
+        "to sleep"
+      ],
+      "traditional": "睡覺",
+      "radical": "目",
+      "frequency": 944,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 102,
+      "level": "HSK1",
+      "hanzi": "说话",
+      "acceptedInputs": [
+        "说话"
+      ],
+      "lookupTerms": [
+        "说话"
+      ],
+      "pinyin": "shuōhuà",
+      "meaningVi": "nói; trò chuyện",
+      "meaningViFull": [
+        "nói",
+        "trò chuyện",
+        "buôn chuyện",
+        "kể chuyện",
+        "từ ngữ"
+      ],
+      "meaningEn": "to speak; to say",
+      "meaningEnFull": [
+        "to speak",
+        "to say",
+        "to talk",
+        "to gossip",
+        "to tell stories",
+        "talk",
+        "word"
+      ],
+      "traditional": "說話",
+      "radical": "讠",
+      "frequency": 880,
+      "partOfSpeech": [
+        "v",
+        "vn"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 103,
+      "level": "HSK1",
+      "hanzi": "四",
+      "acceptedInputs": [
+        "四"
+      ],
+      "lookupTerms": [
+        "四"
+      ],
+      "pinyin": "sì",
+      "meaningVi": "bốn; 4",
+      "meaningViFull": [
+        "bốn",
+        "4"
+      ],
+      "meaningEn": "four; 4",
+      "meaningEnFull": [
+        "four",
+        "4"
+      ],
+      "traditional": "四",
+      "radical": "囗",
+      "frequency": 481,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 104,
+      "level": "HSK1",
+      "hanzi": "岁",
+      "acceptedInputs": [
+        "岁"
+      ],
+      "lookupTerms": [
+        "岁"
+      ],
+      "pinyin": "suì",
+      "meaningVi": "biến thể của 歲|岁[sui4], năm; tuổi",
+      "meaningViFull": [
+        "biến thể của 歲|岁[sui4], năm",
+        "tuổi"
+      ],
+      "meaningEn": "variant of 岁, year; years old",
+      "meaningEnFull": [
+        "variant of 岁, year",
+        "years old"
+      ],
+      "traditional": "嵗",
+      "radical": "山",
+      "frequency": 266,
+      "partOfSpeech": [
+        "qt"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 105,
+      "level": "HSK1",
+      "hanzi": "他",
+      "acceptedInputs": [
+        "他"
+      ],
+      "lookupTerms": [
+        "他"
+      ],
+      "pinyin": "tā",
+      "meaningVi": "anh ấy; ông ấy (dùng cho bất kỳ giới tính nào khi giới tính không được biết hoặc không quan trọng); (dùng trước tên ai đó để nhấn mạnh)",
+      "meaningViFull": [
+        "anh ấy; ông ấy (dùng cho bất kỳ giới tính nào khi giới tính không được biết hoặc không quan trọng)",
+        "(dùng trước tên ai đó để nhấn mạnh)",
+        "(dùng như một tân ngữ không có nghĩa)",
+        "(văn học) khác"
+      ],
+      "meaningEn": "he; him (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis)",
+      "meaningEnFull": [
+        "he; him (used for either sex when the sex is unknown or unimportant)",
+        "(used before sb's name for emphasis)",
+        "(used as a meaningless mock object)",
+        "(literary) other"
+      ],
+      "traditional": "他",
+      "radical": "亻",
+      "frequency": 10,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 106,
+      "level": "HSK1",
+      "hanzi": "她",
+      "acceptedInputs": [
+        "她"
+      ],
+      "lookupTerms": [
+        "她"
+      ],
+      "pinyin": "tā",
+      "meaningVi": "cô ấy",
+      "meaningViFull": [
+        "cô ấy"
+      ],
+      "meaningEn": "she",
+      "meaningEnFull": [
+        "she"
+      ],
+      "traditional": "她",
+      "radical": "女",
+      "frequency": 38,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 107,
+      "level": "HSK1",
+      "hanzi": "太",
+      "acceptedInputs": [
+        "太"
+      ],
+      "lookupTerms": [
+        "太"
+      ],
+      "pinyin": "tài",
+      "meaningVi": "cao nhất; vĩ đại",
+      "meaningViFull": [
+        "cao nhất",
+        "vĩ đại",
+        "quá (nhiều)",
+        "rất",
+        "cực kỳ"
+      ],
+      "meaningEn": "highest; greatest",
+      "meaningEnFull": [
+        "highest",
+        "greatest",
+        "too (much)",
+        "very",
+        "extremely"
+      ],
+      "traditional": "太",
+      "radical": "大",
+      "frequency": 87,
+      "partOfSpeech": [
+        "d",
+        "b"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 108,
+      "level": "HSK1",
+      "hanzi": "天气",
+      "acceptedInputs": [
+        "天气"
+      ],
+      "lookupTerms": [
+        "天气"
+      ],
+      "pinyin": "tiānqì",
+      "meaningVi": "thời tiết",
+      "meaningViFull": [
+        "thời tiết"
+      ],
+      "meaningEn": "weather",
+      "meaningEnFull": [
+        "weather"
+      ],
+      "traditional": "天氣",
+      "radical": "大",
+      "frequency": 1675,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 109,
+      "level": "HSK1",
+      "hanzi": "听",
+      "acceptedInputs": [
+        "听"
+      ],
+      "lookupTerms": [
+        "听"
+      ],
+      "pinyin": "tīng",
+      "meaningVi": "nghe; nghe theo; tuân theo",
+      "meaningViFull": [
+        "nghe",
+        "nghe theo; tuân theo",
+        "một lon (từ mượn từ tiếng Anh \"tin\")",
+        "lượng từ cho đồ uống đóng lon",
+        "để yên; cho phép (cách phát âm ở Đài Loan: [ting4])",
+        "(văn học) quản lý; xử lý (cách phát âm ở Đài Loan: [ting4])"
+      ],
+      "meaningEn": "to listen to; to hear; to heed; to obey",
+      "meaningEnFull": [
+        "to listen to; to hear",
+        "to heed; to obey",
+        "a can (loanword from English \"tin\")",
+        "classifier for canned beverages",
+        "to let be; to allow (Taiwan pr. [tìng])",
+        "(literary) to administer; to deal with (Taiwan pr. [tìng])"
+      ],
+      "traditional": "聽",
+      "radical": "口",
+      "frequency": 190,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 110,
+      "level": "HSK1",
+      "hanzi": "同学",
+      "acceptedInputs": [
+        "同学"
+      ],
+      "lookupTerms": [
+        "同学"
+      ],
+      "pinyin": "tóngxué",
+      "meaningVi": "học cùng trường; bạn học",
+      "meaningViFull": [
+        "học cùng trường",
+        "bạn học",
+        "bạn cùng lớp",
+        "Lượng từ: 位[wei4], 個|个[ge4]"
+      ],
+      "meaningEn": "to study at the same school; fellow student",
+      "meaningEnFull": [
+        "to study at the same school",
+        "fellow student",
+        "classmate"
+      ],
+      "traditional": "同學",
+      "radical": "口",
+      "frequency": 1828,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "位",
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 111,
+      "level": "HSK1",
+      "hanzi": "喂",
+      "acceptedInputs": [
+        "喂"
+      ],
+      "lookupTerms": [
+        "喂"
+      ],
+      "pinyin": "wèi",
+      "meaningVi": "này; cho ăn (động vật, em bé, người bệnh v.v.)",
+      "meaningViFull": [
+        "này",
+        "cho ăn (động vật, em bé, người bệnh v.v.)"
+      ],
+      "meaningEn": "hey; to feed (an animal, baby, invalid etc)",
+      "meaningEnFull": [
+        "hey",
+        "to feed (an animal, baby, invalid etc)"
+      ],
+      "traditional": "喂",
+      "radical": "口",
+      "frequency": 1301,
+      "partOfSpeech": [
+        "v",
+        "e"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 112,
+      "level": "HSK1",
+      "hanzi": "我",
+      "acceptedInputs": [
+        "我"
+      ],
+      "lookupTerms": [
+        "我"
+      ],
+      "pinyin": "wǒ",
+      "meaningVi": "tôi; mình; của tôi",
+      "meaningViFull": [
+        "tôi; mình; của tôi"
+      ],
+      "meaningEn": "I; me; my",
+      "meaningEnFull": [
+        "I; me; my"
+      ],
+      "traditional": "我",
+      "radical": "戈",
+      "frequency": 3,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 113,
+      "level": "HSK1",
+      "hanzi": "我们",
+      "acceptedInputs": [
+        "我们"
+      ],
+      "lookupTerms": [
+        "我们"
+      ],
+      "pinyin": "wǒmen",
+      "meaningVi": "chúng tôi; chúng ta; bản thân chúng ta; của chúng tôi",
+      "meaningViFull": [
+        "chúng tôi; chúng ta; bản thân chúng ta; của chúng tôi"
+      ],
+      "meaningEn": "we; us",
+      "meaningEnFull": [
+        "we",
+        "us",
+        "ourselves",
+        "our"
+      ],
+      "traditional": "我們",
+      "radical": "戈",
+      "frequency": 19,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 114,
+      "level": "HSK1",
+      "hanzi": "五",
+      "acceptedInputs": [
+        "五"
+      ],
+      "lookupTerms": [
+        "五"
+      ],
+      "pinyin": "wǔ",
+      "meaningVi": "năm; 5",
+      "meaningViFull": [
+        "năm",
+        "5"
+      ],
+      "meaningEn": "five; 5",
+      "meaningEnFull": [
+        "five",
+        "5"
+      ],
+      "traditional": "五",
+      "radical": "二",
+      "frequency": 563,
+      "partOfSpeech": [
+        "m",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 115,
+      "level": "HSK1",
+      "hanzi": "喜欢",
+      "acceptedInputs": [
+        "喜欢"
+      ],
+      "lookupTerms": [
+        "喜欢"
+      ],
+      "pinyin": "xǐhuan",
+      "meaningVi": "thích; ưa thích",
+      "meaningViFull": [
+        "thích; ưa thích"
+      ],
+      "meaningEn": "to like; to be fond of",
+      "meaningEnFull": [
+        "to like; to be fond of"
+      ],
+      "traditional": "喜歡",
+      "radical": "口",
+      "frequency": 139,
+      "partOfSpeech": [
+        "v",
+        "vn"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 116,
+      "level": "HSK1",
+      "hanzi": "下",
+      "acceptedInputs": [
+        "下"
+      ],
+      "lookupTerms": [
+        "下"
+      ],
+      "pinyin": "xià",
+      "meaningVi": "xuống; hướng xuống",
+      "meaningViFull": [
+        "xuống",
+        "hướng xuống",
+        "dưới",
+        "thấp hơn",
+        "sau",
+        "tiếp theo (tuần,...)",
+        "thứ hai (trong hai phần)",
+        "giảm",
+        "đưa ra (quyết định, kết luận,...)",
+        "lượng từ chỉ tần suất của một hành động"
+      ],
+      "meaningEn": "down; downwards",
+      "meaningEnFull": [
+        "down",
+        "downwards",
+        "below",
+        "lower",
+        "later",
+        "next (week etc)",
+        "second (of two parts)",
+        "to decline",
+        "to go down",
+        "to arrive at (a decision, conclusion etc)",
+        "measure word to show the frequency of an action"
+      ],
+      "traditional": "下",
+      "radical": "一",
+      "frequency": 70,
+      "partOfSpeech": [
+        "v",
+        "f",
+        "qt",
+        "g"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 117,
+      "level": "HSK1",
+      "hanzi": "下午",
+      "acceptedInputs": [
+        "下午"
+      ],
+      "lookupTerms": [
+        "下午"
+      ],
+      "pinyin": "xiàwǔ",
+      "meaningVi": "buổi chiều; p.m.",
+      "meaningViFull": [
+        "buổi chiều",
+        "p.m."
+      ],
+      "meaningEn": "afternoon; p.m.",
+      "meaningEnFull": [
+        "afternoon",
+        "p.m."
+      ],
+      "traditional": "下午",
+      "radical": "一",
+      "frequency": 782,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 118,
+      "level": "HSK1",
+      "hanzi": "下雨",
+      "acceptedInputs": [
+        "下雨"
+      ],
+      "lookupTerms": [
+        "下雨"
+      ],
+      "pinyin": "xià yǔ",
+      "meaningVi": "trời mưa",
+      "meaningViFull": [
+        "trời mưa"
+      ],
+      "meaningEn": "to rain",
+      "meaningEnFull": [
+        "to rain"
+      ],
+      "traditional": "下雨",
+      "radical": "一",
+      "frequency": 5648,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 119,
+      "level": "HSK1",
+      "hanzi": "先生",
+      "acceptedInputs": [
+        "先生"
+      ],
+      "lookupTerms": [
+        "先生"
+      ],
+      "pinyin": "xiānsheng",
+      "meaningVi": "giáo viên; quý ông; ngài; ông (Mr.)",
+      "meaningViFull": [
+        "giáo viên",
+        "quý ông; ngài; ông (Mr.)",
+        "chồng",
+        "(phương ngữ) bác sĩ"
+      ],
+      "meaningEn": "teacher; gentleman; sir; mister (Mr.)",
+      "meaningEnFull": [
+        "teacher",
+        "gentleman; sir; mister (Mr.)",
+        "husband",
+        "(dialect) doctor"
+      ],
+      "traditional": "先生",
+      "radical": "儿",
+      "frequency": 586,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 120,
+      "level": "HSK1",
+      "hanzi": "现在",
+      "acceptedInputs": [
+        "现在"
+      ],
+      "lookupTerms": [
+        "现在"
+      ],
+      "pinyin": "xiànzài",
+      "meaningVi": "bây giờ; hiện tại",
+      "meaningViFull": [
+        "bây giờ",
+        "hiện tại",
+        "lúc này",
+        "hiện đại",
+        "hiện nay",
+        "ngày nay"
+      ],
+      "meaningEn": "now; at present",
+      "meaningEnFull": [
+        "now",
+        "at present",
+        "at the moment",
+        "modern",
+        "current",
+        "nowadays"
+      ],
+      "traditional": "現在",
+      "radical": "王",
+      "frequency": 77,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 121,
+      "level": "HSK1",
+      "hanzi": "想",
+      "acceptedInputs": [
+        "想"
+      ],
+      "lookupTerms": [
+        "想"
+      ],
+      "pinyin": "xiǎng",
+      "meaningVi": "nghĩ (về); nghĩ đến; nghĩ ra",
+      "meaningViFull": [
+        "nghĩ (về)",
+        "nghĩ đến; nghĩ ra",
+        "nghĩ (rằng); tin (rằng)",
+        "mong muốn; muốn",
+        "nhớ (cảm giác tiếc nuối về sự vắng mặt)"
+      ],
+      "meaningEn": "to think (about); to think of; to devise",
+      "meaningEnFull": [
+        "to think (about)",
+        "to think of; to devise",
+        "to think (that); to believe (that)",
+        "to desire; to want (to)",
+        "to miss (feel wistful about the absence of)"
+      ],
+      "traditional": "想",
+      "radical": "心",
+      "frequency": 44,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 122,
+      "level": "HSK1",
+      "hanzi": "小",
+      "acceptedInputs": [
+        "小"
+      ],
+      "lookupTerms": [
+        "小"
+      ],
+      "pinyin": "xiǎo",
+      "meaningVi": "nhỏ; bé",
+      "meaningViFull": [
+        "nhỏ",
+        "bé",
+        "một vài",
+        "trẻ"
+      ],
+      "meaningEn": "small; tiny",
+      "meaningEnFull": [
+        "small",
+        "tiny",
+        "few",
+        "young"
+      ],
+      "traditional": "小",
+      "radical": "小",
+      "frequency": 100,
+      "partOfSpeech": [
+        "a",
+        "ad"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 123,
+      "level": "HSK1",
+      "hanzi": "小姐",
+      "acceptedInputs": [
+        "小姐"
+      ],
+      "lookupTerms": [
+        "小姐"
+      ],
+      "pinyin": "xiǎojiě",
+      "meaningVi": "cô gái; cô",
+      "meaningViFull": [
+        "cô gái",
+        "cô",
+        "(tiếng lóng) gái mại dâm"
+      ],
+      "meaningEn": "young lady; miss",
+      "meaningEnFull": [
+        "young lady",
+        "miss",
+        "(slang) prostitute"
+      ],
+      "traditional": "小姐",
+      "radical": "小",
+      "frequency": 1575,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 124,
+      "level": "HSK1",
+      "hanzi": "些",
+      "acceptedInputs": [
+        "些"
+      ],
+      "lookupTerms": [
+        "些"
+      ],
+      "pinyin": "xiē",
+      "meaningVi": "lượng từ chỉ số lượng nhỏ lớn hơn 1: một ít, một vài, một số",
+      "meaningViFull": [
+        "lượng từ chỉ số lượng nhỏ lớn hơn 1: một ít, một vài, một số"
+      ],
+      "meaningEn": "classifier indicating a small amount or small number greater than 1: some, a few, several",
+      "meaningEnFull": [
+        "classifier indicating a small amount or small number greater than 1: some, a few, several"
+      ],
+      "traditional": "些",
+      "radical": "二",
+      "frequency": 611,
+      "partOfSpeech": [
+        "q"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 125,
+      "level": "HSK1",
+      "hanzi": "写",
+      "acceptedInputs": [
+        "写"
+      ],
+      "lookupTerms": [
+        "写"
+      ],
+      "pinyin": "xiě",
+      "meaningVi": "viết",
+      "meaningViFull": [
+        "viết"
+      ],
+      "meaningEn": "to write",
+      "meaningEnFull": [
+        "to write"
+      ],
+      "traditional": "寫",
+      "radical": "冖",
+      "frequency": 352,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 126,
+      "level": "HSK1",
+      "hanzi": "谢谢",
+      "acceptedInputs": [
+        "谢谢"
+      ],
+      "lookupTerms": [
+        "谢谢"
+      ],
+      "pinyin": "xièxie",
+      "meaningVi": "cảm ơn; cảm ơn bạn",
+      "meaningViFull": [
+        "cảm ơn",
+        "cảm ơn bạn"
+      ],
+      "meaningEn": "to thank; thanks",
+      "meaningEnFull": [
+        "to thank",
+        "thanks",
+        "thank you"
+      ],
+      "traditional": "謝謝",
+      "radical": "讠",
+      "frequency": 520,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 127,
+      "level": "HSK1",
+      "hanzi": "星期",
+      "acceptedInputs": [
+        "星期"
+      ],
+      "lookupTerms": [
+        "星期"
+      ],
+      "pinyin": "xīngqī",
+      "meaningVi": "tuần; ngày trong tuần",
+      "meaningViFull": [
+        "tuần",
+        "ngày trong tuần",
+        "Chủ nhật"
+      ],
+      "meaningEn": "week; day of the week",
+      "meaningEnFull": [
+        "week",
+        "day of the week",
+        "Sunday"
+      ],
+      "traditional": "星期",
+      "radical": "日",
+      "frequency": 1956,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 128,
+      "level": "HSK1",
+      "hanzi": "学生",
+      "acceptedInputs": [
+        "学生"
+      ],
+      "lookupTerms": [
+        "学生"
+      ],
+      "pinyin": "xuésheng",
+      "meaningVi": "học sinh; trẻ đi học",
+      "meaningViFull": [
+        "học sinh",
+        "trẻ đi học"
+      ],
+      "meaningEn": "student; schoolchild",
+      "meaningEnFull": [
+        "student",
+        "schoolchild"
+      ],
+      "traditional": "學生",
+      "radical": "子",
+      "frequency": 651,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 129,
+      "level": "HSK1",
+      "hanzi": "学习",
+      "acceptedInputs": [
+        "学习"
+      ],
+      "lookupTerms": [
+        "学习"
+      ],
+      "pinyin": "xuéxí",
+      "meaningVi": "học; tìm hiểu",
+      "meaningViFull": [
+        "học",
+        "tìm hiểu"
+      ],
+      "meaningEn": "to learn; to study",
+      "meaningEnFull": [
+        "to learn",
+        "to study"
+      ],
+      "traditional": "學習",
+      "radical": "子",
+      "frequency": 789,
+      "partOfSpeech": [
+        "v",
+        "vn"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 130,
+      "level": "HSK1",
+      "hanzi": "学校",
+      "acceptedInputs": [
+        "学校"
+      ],
+      "lookupTerms": [
+        "学校"
+      ],
+      "pinyin": "xuéxiào",
+      "meaningVi": "trường học; Lượng từ: 所[suo3]",
+      "meaningViFull": [
+        "trường học",
+        "Lượng từ: 所[suo3]"
+      ],
+      "meaningEn": "school",
+      "meaningEnFull": [
+        "school"
+      ],
+      "traditional": "學校",
+      "radical": "子",
+      "frequency": 430,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "所"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 131,
+      "level": "HSK1",
+      "hanzi": "一",
+      "acceptedInputs": [
+        "一"
+      ],
+      "lookupTerms": [
+        "一"
+      ],
+      "pinyin": "yī",
+      "meaningVi": "một; đơn",
+      "meaningViFull": [
+        "một",
+        "đơn",
+        "một cái (mạo từ)",
+        "ngay khi",
+        "toàn bộ; tất cả; xuyên suốt",
+        "bộ \"một\" trong chữ Hán (bộ Khang Hy số 1)",
+        "cũng đọc là [yao1] để rõ hơn khi đọc từng chữ số một"
+      ],
+      "meaningEn": "one; single",
+      "meaningEnFull": [
+        "one",
+        "single",
+        "a (article)",
+        "as soon as",
+        "entire; whole; all; throughout",
+        "\"one\" radical in Chinese characters (Kangxi radical 1)",
+        "also pr. [yāo] for greater clarity when spelling out numbers digit by digit"
+      ],
+      "traditional": "一",
+      "radical": "一",
+      "frequency": 21,
+      "partOfSpeech": [
+        "m",
+        "d",
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 132,
+      "level": "HSK1",
+      "hanzi": "衣服",
+      "acceptedInputs": [
+        "衣服"
+      ],
+      "lookupTerms": [
+        "衣服"
+      ],
+      "pinyin": "yīfu",
+      "meaningVi": "quần áo",
+      "meaningViFull": [
+        "quần áo"
+      ],
+      "meaningEn": "clothes",
+      "meaningEnFull": [
+        "clothes"
+      ],
+      "traditional": "衣服",
+      "radical": "衣",
+      "frequency": 1472,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "件",
+        "套"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 133,
+      "level": "HSK1",
+      "hanzi": "医生",
+      "acceptedInputs": [
+        "医生"
+      ],
+      "lookupTerms": [
+        "医生"
+      ],
+      "pinyin": "yīshēng",
+      "meaningVi": "bác sĩ",
+      "meaningViFull": [
+        "bác sĩ"
+      ],
+      "meaningEn": "doctor",
+      "meaningEnFull": [
+        "doctor"
+      ],
+      "traditional": "醫生",
+      "radical": "匸",
+      "frequency": 827,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个",
+        "位",
+        "名"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 134,
+      "level": "HSK1",
+      "hanzi": "医院",
+      "acceptedInputs": [
+        "医院"
+      ],
+      "lookupTerms": [
+        "医院"
+      ],
+      "pinyin": "yīyuàn",
+      "meaningVi": "bệnh viện",
+      "meaningViFull": [
+        "bệnh viện"
+      ],
+      "meaningEn": "hospital",
+      "meaningEnFull": [
+        "hospital"
+      ],
+      "traditional": "醫院",
+      "radical": "匸",
+      "frequency": 608,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "所",
+        "家",
+        "座"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 135,
+      "level": "HSK1",
+      "hanzi": "椅子",
+      "acceptedInputs": [
+        "椅子"
+      ],
+      "lookupTerms": [
+        "椅子"
+      ],
+      "pinyin": "yǐzi",
+      "meaningVi": "ghế",
+      "meaningViFull": [
+        "ghế"
+      ],
+      "meaningEn": "chair",
+      "meaningEnFull": [
+        "chair"
+      ],
+      "traditional": "椅子",
+      "radical": "木",
+      "frequency": 4472,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "把",
+        "套"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 136,
+      "level": "HSK1",
+      "hanzi": "有",
+      "acceptedInputs": [
+        "有"
+      ],
+      "lookupTerms": [
+        "有"
+      ],
+      "pinyin": "yǒu",
+      "meaningVi": "có; có (gì đó); (dạng kết hợp) có; với; mang tính chất gì đó (như trong 有意[you3 yi4] cố ý)",
+      "meaningViFull": [
+        "có; có (gì đó)",
+        "(dạng kết hợp) có; với; mang tính chất gì đó (như trong 有意[you3 yi4] cố ý)"
+      ],
+      "meaningEn": "to have; there is; (bound form) having; with; -ful; -ed; -al (as in 意 intentional)",
+      "meaningEnFull": [
+        "to have; there is",
+        "(bound form) having; with; -ful; -ed; -al (as in 意 intentional)"
+      ],
+      "traditional": "有",
+      "radical": "月",
+      "frequency": 9,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 137,
+      "level": "HSK1",
+      "hanzi": "月",
+      "acceptedInputs": [
+        "月"
+      ],
+      "lookupTerms": [
+        "月"
+      ],
+      "pinyin": "yuè",
+      "meaningVi": "mặt trăng; tháng",
+      "meaningViFull": [
+        "mặt trăng",
+        "tháng",
+        "hàng tháng"
+      ],
+      "meaningEn": "moon; month",
+      "meaningEnFull": [
+        "moon",
+        "month",
+        "monthly"
+      ],
+      "traditional": "月",
+      "radical": "月",
+      "frequency": 161,
+      "partOfSpeech": [
+        "n",
+        "t"
+      ],
+      "classifiers": [
+        "个",
+        "轮"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 138,
+      "level": "HSK1",
+      "hanzi": "在",
+      "acceptedInputs": [
+        "在"
+      ],
+      "lookupTerms": [
+        "在"
+      ],
+      "pinyin": "zài",
+      "meaningVi": "tồn tại; còn sống; (ai đó hoặc cái gì đó) ở (vị trí)",
+      "meaningViFull": [
+        "tồn tại; còn sống",
+        "(ai đó hoặc cái gì đó) ở (vị trí)",
+        "(dùng trước động từ để chỉ hành động đang diễn ra)"
+      ],
+      "meaningEn": "to exist; to be alive; (of sb or sth) to be (located) at",
+      "meaningEnFull": [
+        "to exist; to be alive",
+        "(of sb or sth) to be (located) at",
+        "(used before a verb to indicate an action in progress)"
+      ],
+      "traditional": "在",
+      "radical": "土",
+      "frequency": 5,
+      "partOfSpeech": [
+        "p",
+        "v",
+        "d"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 139,
+      "level": "HSK1",
+      "hanzi": "再见",
+      "acceptedInputs": [
+        "再见"
+      ],
+      "lookupTerms": [
+        "再见"
+      ],
+      "pinyin": "zàijiàn",
+      "meaningVi": "tạm biệt; gặp lại sau",
+      "meaningViFull": [
+        "tạm biệt",
+        "gặp lại sau"
+      ],
+      "meaningEn": "goodbye; see you again later",
+      "meaningEnFull": [
+        "goodbye",
+        "see you again later"
+      ],
+      "traditional": "再見",
+      "radical": "冂",
+      "frequency": 2487,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 140,
+      "level": "HSK1",
+      "hanzi": "怎么",
+      "acceptedInputs": [
+        "怎么"
+      ],
+      "lookupTerms": [
+        "怎么"
+      ],
+      "pinyin": "zěnme",
+      "meaningVi": "như thế nào?; cái gì?",
+      "meaningViFull": [
+        "như thế nào?",
+        "cái gì?",
+        "tại sao?"
+      ],
+      "meaningEn": "how?; what?",
+      "meaningEnFull": [
+        "how?",
+        "what?",
+        "why?"
+      ],
+      "traditional": "怎麼",
+      "radical": "心",
+      "frequency": 128,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 141,
+      "level": "HSK1",
+      "hanzi": "怎么样",
+      "acceptedInputs": [
+        "怎么样"
+      ],
+      "lookupTerms": [
+        "怎么样"
+      ],
+      "pinyin": "zěnmeyàng",
+      "meaningVi": "như thế nào?; thế nào?",
+      "meaningViFull": [
+        "như thế nào?",
+        "thế nào?",
+        "ra sao?",
+        "mọi thứ sao rồi?"
+      ],
+      "meaningEn": "how?; how about?",
+      "meaningEnFull": [
+        "how?",
+        "how about?",
+        "how was it?",
+        "how are things?"
+      ],
+      "traditional": "怎麼樣",
+      "radical": "心",
+      "frequency": 1367,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 142,
+      "level": "HSK1",
+      "hanzi": "这（这儿）",
+      "acceptedInputs": [
+        "这",
+        "这儿"
+      ],
+      "lookupTerms": [
+        "这（这儿）",
+        "这儿",
+        "这"
+      ],
+      "pinyin": "zhè (zhèr)",
+      "meaningVi": "ở đây",
+      "meaningViFull": [
+        "ở đây"
+      ],
+      "meaningEn": "here",
+      "meaningEnFull": [
+        "here"
+      ],
+      "traditional": "這兒",
+      "radical": "辶",
+      "frequency": 2522,
+      "partOfSpeech": [
+        "r"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 143,
+      "level": "HSK1",
+      "hanzi": "中国",
+      "acceptedInputs": [
+        "中国"
+      ],
+      "lookupTerms": [
+        "中国"
+      ],
+      "pinyin": "Zhōngguó",
+      "meaningVi": "Trung Quốc",
+      "meaningViFull": [
+        "Trung Quốc"
+      ],
+      "meaningEn": "China",
+      "meaningEnFull": [
+        "China"
+      ],
+      "traditional": "中國",
+      "radical": "丨",
+      "frequency": 729,
+      "partOfSpeech": [
+        "ns"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 144,
+      "level": "HSK1",
+      "hanzi": "中午",
+      "acceptedInputs": [
+        "中午"
+      ],
+      "lookupTerms": [
+        "中午"
+      ],
+      "pinyin": "zhōngwǔ",
+      "meaningVi": "buổi trưa; trưa",
+      "meaningViFull": [
+        "buổi trưa",
+        "trưa"
+      ],
+      "meaningEn": "noon; midday",
+      "meaningEnFull": [
+        "noon",
+        "midday"
+      ],
+      "traditional": "中午",
+      "radical": "丨",
+      "frequency": 2600,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 145,
+      "level": "HSK1",
+      "hanzi": "住",
+      "acceptedInputs": [
+        "住"
+      ],
+      "lookupTerms": [
+        "住"
+      ],
+      "pinyin": "zhù",
+      "meaningVi": "sống; ở",
+      "meaningViFull": [
+        "sống",
+        "ở",
+        "lưu lại",
+        "cư trú",
+        "dừng",
+        "(hậu tố chỉ sự chắc chắn, ổn định, hoặc dừng lại)"
+      ],
+      "meaningEn": "to live; to dwell",
+      "meaningEnFull": [
+        "to live",
+        "to dwell",
+        "to stay",
+        "to reside",
+        "to stop",
+        "(suffix indicating firmness, steadiness, or coming to a halt)"
+      ],
+      "traditional": "住",
+      "radical": "亻",
+      "frequency": 280,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 146,
+      "level": "HSK1",
+      "hanzi": "桌子",
+      "acceptedInputs": [
+        "桌子"
+      ],
+      "lookupTerms": [
+        "桌子"
+      ],
+      "pinyin": "zhuōzi",
+      "meaningVi": "bàn; bàn làm việc",
+      "meaningViFull": [
+        "bàn",
+        "bàn làm việc"
+      ],
+      "meaningEn": "table; desk",
+      "meaningEnFull": [
+        "table",
+        "desk"
+      ],
+      "traditional": "桌子",
+      "radical": "木",
+      "frequency": 3639,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "张",
+        "套"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 147,
+      "level": "HSK1",
+      "hanzi": "字",
+      "acceptedInputs": [
+        "字"
+      ],
+      "lookupTerms": [
+        "字"
+      ],
+      "pinyin": "zì",
+      "meaningVi": "chữ; ký hiệu",
+      "meaningViFull": [
+        "chữ",
+        "ký hiệu",
+        "kí tự",
+        "từ",
+        "tên chữ (tên chữ hay tên hiệu) truyền thống đặt cho nam giới 20 tuổi thời Trung Quốc phong kiến"
+      ],
+      "meaningEn": "letter; symbol",
+      "meaningEnFull": [
+        "letter",
+        "symbol",
+        "character",
+        "word",
+        "courtesy or style name traditionally given to males aged 20 in dynastic China"
+      ],
+      "traditional": "字",
+      "radical": "子",
+      "frequency": 913,
+      "partOfSpeech": [
+        "n"
+      ],
+      "classifiers": [
+        "个"
+      ],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 148,
+      "level": "HSK1",
+      "hanzi": "昨天",
+      "acceptedInputs": [
+        "昨天"
+      ],
+      "lookupTerms": [
+        "昨天"
+      ],
+      "pinyin": "zuótiān",
+      "meaningVi": "hôm qua",
+      "meaningViFull": [
+        "hôm qua"
+      ],
+      "meaningEn": "yesterday",
+      "meaningEnFull": [
+        "yesterday"
+      ],
+      "traditional": "昨天",
+      "radical": "日",
+      "frequency": 557,
+      "partOfSpeech": [
+        "t"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 149,
+      "level": "HSK1",
+      "hanzi": "坐",
+      "acceptedInputs": [
+        "坐"
+      ],
+      "lookupTerms": [
+        "坐"
+      ],
+      "pinyin": "zuò",
+      "meaningVi": "họ [Zuo4]",
+      "meaningViFull": [
+        "họ [Zuo4]"
+      ],
+      "meaningEn": "surname Zuo",
+      "meaningEnFull": [
+        "surname Zuo"
+      ],
+      "traditional": "坐",
+      "radical": "土",
+      "frequency": 435,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    },
+    {
+      "order": 150,
+      "level": "HSK1",
+      "hanzi": "做",
+      "acceptedInputs": [
+        "做"
+      ],
+      "lookupTerms": [
+        "做"
+      ],
+      "pinyin": "zuò",
+      "meaningVi": "làm; sản xuất; viết; sáng tác",
+      "meaningViFull": [
+        "làm; sản xuất",
+        "viết; sáng tác",
+        "làm; tham gia; tổ chức (một bữa tiệc, v.v.)",
+        "(về người) làm (trung gian, học sinh giỏi, v.v.); trở thành (vợ chồng, bạn bè, v.v.)",
+        "(về vật) đóng vai trò; được dùng để",
+        "giả vờ (dáng vẻ hoặc thái độ)"
+      ],
+      "meaningEn": "to make; to produce; to write; to compose",
+      "meaningEnFull": [
+        "to make; to produce",
+        "to write; to compose",
+        "to do; to engage in; to hold (a party etc)",
+        "(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)",
+        "(of a thing) to serve as; to be used for",
+        "to assume (an air or manner)"
+      ],
+      "traditional": "做",
+      "radical": "亻",
+      "frequency": 53,
+      "partOfSpeech": [
+        "v"
+      ],
+      "classifiers": [],
+      "sourceFlags": {
+        "vi": "cvdict",
+        "meta": "complete-hsk"
+      }
+    }
+  ]
+}

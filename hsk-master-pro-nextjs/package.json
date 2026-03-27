@@ -1,0 +1,28 @@
+{
+  "name": "hsk-master-pro-nextjs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "HSK Master Pro - Next.js PWA and Capacitor-ready iPhone package scaffold",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "ios:sync": "npm run build && npx cap sync ios",
+    "ios:open": "npx cap open ios"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@capacitor/cli": "latest"
+  }
+}

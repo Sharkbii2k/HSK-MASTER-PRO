@@ -1,0 +1,29 @@
+{
+  "levels": [
+    {
+      "level": "HSK1",
+      "count": 150
+    },
+    {
+      "level": "HSK2",
+      "count": 300
+    },
+    {
+      "level": "HSK3",
+      "count": 600
+    },
+    {
+      "level": "HSK4",
+      "count": 1200
+    },
+    {
+      "level": "HSK5",
+      "count": 2500
+    },
+    {
+      "level": "HSK6",
+      "count": 5000
+    }
+  ],
+  "generatedBy": "scripts/build_hsk_data.py"
+}

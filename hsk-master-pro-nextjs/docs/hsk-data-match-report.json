@@ -1,0 +1,38 @@
+[
+  {
+    "level": "HSK1",
+    "count": 150,
+    "matchedVi": 150,
+    "matchedMeta": 150
+  },
+  {
+    "level": "HSK2",
+    "count": 300,
+    "matchedVi": 298,
+    "matchedMeta": 299
+  },
+  {
+    "level": "HSK3",
+    "count": 600,
+    "matchedVi": 598,
+    "matchedMeta": 599
+  },
+  {
+    "level": "HSK4",
+    "count": 1200,
+    "matchedVi": 1197,
+    "matchedMeta": 1198
+  },
+  {
+    "level": "HSK5",
+    "count": 2500,
+    "matchedVi": 2496,
+    "matchedMeta": 2497
+  },
+  {
+    "level": "HSK6",
+    "count": 5000,
+    "matchedVi": 4994,
+    "matchedMeta": 4993
+  }
+]
